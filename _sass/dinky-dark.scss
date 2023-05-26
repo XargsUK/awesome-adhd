@@ -1,5 +1,9 @@
-body {
+html, body {
     background-color: #1a1a1a;
+    color: #cfcfcf;
+  }
+  
+  h1, h2, h3, p, li, th, td {
     color: #cfcfcf;
   }
   
@@ -10,8 +14,12 @@ body {
   a:visited {
     color: #9b59b6;
   }
-
-  th {
-    font-size: 12;
+  
+  ul, tbody, tr, table, section {
+    background-color: #1a1a1a;
+  }
+  
+  th, td {
+    border: 1px solid #555;
   }
   
