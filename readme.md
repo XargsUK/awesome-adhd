@@ -22,7 +22,7 @@
 
 ## Contents
 
-[Apps](#apps)
+### Apps
 - [Time Management](#time-management)
 - [Block Distractions](#block-distractions)
 - [Visual Calendars](#visual-calendars)
@@ -30,10 +30,15 @@
 - [Task Management](#task-management)
 - [Health Tracking](#health-tracking)
 
-[Content Creators](#content-creators)
+### Content Creators
  - [YouTube](#youtube)
  - [Books](#books)
  - [Websites](#websites)
+ - [Subreddits](#subreddits)
+ - [Podcasts](#podcasts)
+
+ ### Suggest a Resource!
+If you feel that there's a resource missing from this page, [Submit your suggestion!](https://github.com/XargsUK/awesome-adhd/issues/new?assignees=XargsUK&labels=suggestion&projects=&template=%F0%9F%93%9A-new-resource-suggestion.md&title=%5BNEW+RESOURCE%5D)
 
 <!-- CONTENT -->
 
@@ -157,6 +162,40 @@
 | National Institute of Mental Health (NIMH)    | Provides comprehensive information about ADHD, including symptoms, diagnosis, treatments, and related conditions.             | Education about ADHD and other mental health disorders.                              | Both        | [Link](https://www.nimh.nih.gov/)   |
 | ADHD & You                                    | Provides resources for individuals with ADHD and their families, educators, and healthcare providers.                         | Education, management strategies, and tools for living with ADHD.                    | Both        | [Link](https://www.adhdandyou.co.uk/) |
 | AskJan                                    | Information on ADHD, and a great list of real-life examples of accommodations in the workplace.                      | ADHD in the workplace                    | Adults        | [Link](https://askjan.org/disabilities/Attention-Deficit-Hyperactivity-Disorder-AD-HD.cfm) |
+
+### Subreddits
+
+| Subreddit | Description | URL |
+| --- | --- | --- |
+| r/ADHD | The main ADHD subreddit with over 1.2M members | [Link](https://www.reddit.com/r/ADHD) |
+| r/ADHDUK | For All Things ADHD in the United Kingdom | [Link](https://www.reddit.com/r/ADHDUK/) |
+| r/adhd\_anxiety | For people with ADHD and/or anxiety | [Link](https://www.reddit.com/r/adhd_anxiety) |
+| r/adhdmeme | Memes related to ADHD | [Link](https://www.reddit.com/r/adhdmeme) |
+| r/ADHDers | "ADHDers unite. This subreddit was created to provide a positive, safe, and inclusive environment for those with ADHD to converse" | [Link](https://www.reddit.com/r/ADHDers) |
+| r/GiftedADHD | Private community. For discussing ADHD and giftedness | [Link](https://www.reddit.com/r/GiftedADHD) |
+| r/ADHD\_LPT | Life pro tips (LPTs) for those diagnosed with ADHD | [Link](https://www.reddit.com/r/ADHD_LPT) |
+| r/AdultADHDSupportGroup | Another small sub. Pretty much what it says on the tin | [Link](https://www.reddit.com/r/AdultADHDSupportGroup) |
+| r/TwoXADHD | For women with ADHD | [Link](https://www.reddit.com/r/TwoXADHD) |
+| r/adhdwomen | Another subreddit for women with ADHD | [Link](https://www.reddit.com/r/adhdwomen) |
+| r/ADHD\_Programmers | For programmers with ADHD | [Link](https://www.reddit.com/r/ADHD_Programmers) |
+| r/Asdhd | For those with autism and ADHD | [Link](https://www.reddit.com/r/Asdhd) |
+| r/ParentingADHD | A relatively small sub for parents of children with ADHD | [Link](https://www.reddit.com/r/ParentingADHD) |
+| r/ADHD\_partners | For partners of those diagnosed with ADHD | [Link](https://www.reddit.com/r/ADHD_partners) |
+| r/ADHD\_college | For those in higher education with ADHD | [Link](https://www.reddit.com/r/ADHD_college) |
+
+### Podcasts
+
+| Podcast | Description | Content Focus | Apple URL | Spotify URL |
+| --- | --- | --- | --- | --- |
+| ADHD Experts | High profile ADHD experts help tackle family life, education, and work life, offering advice on how to manage symptoms. The format is more interactive, with questions coming from adults with ADHD and parents whose children have it. | ADHD management strategies and advice | [Link](https://podcasts.apple.com/us/podcast/adhd-experts-podcast/id668174671) | [Link](https://open.spotify.com/show/75pbRLsX9ocLVFPSJZ66qM) |
+| Taking Control: The ADHD Podcast | Certified ADHD coach, Nikki Kinzer, helps people develop positive strategies to manage time, get organized, de-stress, and make themselves more productive. | Time management, organization, de-stressing, and productivity tips for those with ADHD | [Link](https://podcasts.apple.com/gb/podcast/transitions/id368426151?i=1000489162412) | [Link](https://open.spotify.com/show/1u5K8OxijCqoHbYLzlbsY0) |
+| More Attention, Less Deficit | Psychologist Ari Tuckman focuses on diagnosing and treating children, teens, and adults who have ADHD. Each podcast episode tackles a different topic, providing actionable steps to help make positive changes. | Diagnosing and treating ADHD, providing actionable steps for positive changes | [Link](https://podcasts.apple.com/gb/podcast/more-attention-less-deficit/id312831485) | ❌ |
+| Beautifully Complex | Penny Williams, a mom who learned all about ADHD when her son was diagnosed. She works with parents to help them understand their children with ADHD. | Positive parenting, homework strategies, calming activities | [Link](https://podcasts.apple.com/us/podcast/beautifully-complex/id1212571693) | [Link](https://open.spotify.com/show/5CZPRKNCx2c0APgDIdrSxN)
+| ADHD reWired | Hear stories, learn strategies, and get great productivity tips as we talk about the real-life struggles and what it takes to achieve success. | Host, Eric Tivers, LCSW, is a psychotherapist, coach and entrepreneur (with ADHD) in private practice. Eric interviews a variety of guests. Many are people just like yourself, as well professionals, entrepreneurs, and ADHD experts.| [Link](https://podcasts.apple.com/us/podcast/adhd-rewired/id849400337) | [Link](https://open.spotify.com/show/1NYBs6dbNcVDWNpcuT6ldv) |
+| Practical ADHD Strategies | Practical strategies to help you manage specific challenges related to ADHD and ADD | Led by Laura Rolands, founder of MyAttentionCoach.com. | [Link](https://podcasts.apple.com/us/podcast/practical-adhd-strategies/id1489757005) | ❌ |
+| Children and Adults with ADHD (CHADD) | CHADD is the nation's leading nonprofit organization serving people affected by ADHD. | ADHD 365 podcast brings listeners into conversations about living with ADHD from every imaginable angle. The ADHD 365 podcast provides expert advice, tips, and strategies for families, adults, educators, and professionals. | [Link](https://podcasts.apple.com/us/podcast/children-and-adults-with-adhd-chadd/id1515547563) | [Link](https://open.spotify.com/show/6QiXGYxZ254jeFso1cMABP) |
+| I Have ADHD Podcast | The I Have ADHD Podcast is a clear, concise, and FUN podcast for adults with ADHD | Host Kristen Carder is an ADHD expert who has been supporting ADHDers for over a decade. This podcast is a mix of solo shows + interviews with the authors of all the dusty ADHD books sitting on your shelf. | [Link](https://podcasts.apple.com/us/podcast/i-have-adhd-podcast/id1446874607) | [Link](https://open.spotify.com/show/6t1VWB5kU1QgCPCLypBuMt) |
+
 
 <!-- END CONTENT -->
 ## Contributing
