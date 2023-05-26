@@ -4,20 +4,18 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome ADHD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+<h1>Awesome ADHD <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></h1>
 
 <!-- subtitle -->
 
-A curated list of ADHD apps, books, ideas and resources across the web! 
-<!-- image -->
-
-<!-- <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a> -->
+<p>A curated list of ADHD apps, books, ideas and resources across the web!</p>
 
 <!-- description -->
-There's millions of apps which aims to tackle issues which are shared between NT and ND brains. This aims to provide a list of resources and tools which are ADHD friendly! 
+
+<p>There's millions of apps which aims to tackle issues which are shared between NT and ND brains. This aims to provide a list of resources and tools which are ADHD friendly!</p>
+
 </div>
+
 
 <!-- TOC -->
 
