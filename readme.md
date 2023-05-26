@@ -121,6 +121,8 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 | Sleep Cycle | Recorder, Sounds & Alarm Clock | [💠](https://apps.apple.com/gb/app/sleep-cycle-sleep-tracker/id320606217)      | [💠](https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&hl=en&gl=US) |         |       |       |        |         |
 | Rise Sleep  | Better Health, Focus & Habits  | [💰](https://apps.apple.com/us/app/rise-sleep-energy-tracker/id1453884781)     | [💰](https://play.google.com/store/apps/details?id=com.risesci.nyx)                      |         |       |       |        |         |
 | Medisafe    | Pill and Medicine Reminder     | [✅](https://apps.apple.com/us/app/medisafe-medication-management/id573916946) | [✅](https://play.google.com/store/apps/details?id=com.medisafe.android.client)          |         |       |       |        |         |
+| ADHD Medication Tracker | Google sheet template for tracking side effects during titration |         |       |       |        |         |         | [✅](https://docs.google.com/spreadsheets/d/1aLGfJffgr1NhsRxlNnHZF4aVaKWfKBHfNGl0mFzTbuY) | 
+
 
 ## Content Creators
 
