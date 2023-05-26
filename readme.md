@@ -22,6 +22,7 @@
 
 ## Contents
 
+[Apps](#apps)
 - [Time Management](#time-management)
 - [Block Distractions](#block-distractions)
 - [Visual Calendars](#visual-calendars)
@@ -29,6 +30,8 @@
 - [Task Management](#task-management)
 - [Health Tracking](#health-tracking)
 
+[Content Creators](#content-creators)
+ - [YouTube](#youtube)
 
 <!-- CONTENT -->
 
@@ -110,6 +113,36 @@
 | Sleep Cycle | Recorder, Sounds & Alarm Clock | [💠](https://apps.apple.com/gb/app/sleep-cycle-sleep-tracker/id320606217)      | [💠](https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&hl=en&gl=US) |         |       |       |        |         |
 | Rise Sleep  | Better Health, Focus & Habits  | [💲](https://apps.apple.com/us/app/rise-sleep-energy-tracker/id1453884781)     | [💲](https://play.google.com/store/apps/details?id=com.risesci.nyx)                      |         |       |       |        |         |
 | Medisafe    | Pill and Medicine Reminder     | [✔️](https://apps.apple.com/us/app/medisafe-medication-management/id573916946) | [✔️](https://play.google.com/store/apps/details?id=com.medisafe.android.client)          |         |       |       |        |         |
+
+## Content Creators
+
+### YouTube
+
+| YouTuber Name            | Description                                                                                                                                                                                            | Content Focus                                                                                                                                | YouTube Channel                                                  |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| How to ADHD              | Jessica's channel provides a friendly, positive environment full of tips, tricks, and information about living with ADHD                                                                               | Strategies for living with ADHD, using methods like Pomodoro for time management, coping with change, and the concept of a body double       | [Link](https://www.youtube.com/channel/UC-nPM1_kSZf91ZGkcgy_95Q) |
+| Rick Wants To Know       | Rick Wants To Know is dedicated to providing accurate information to those struggling with ADHD or working with a loved one who suffers from it​.                                                      | Answers to common questions about ADHD, how ADHD affects women, and aims to dispel fear, shame, and stigma that often accompanies ADHD​      | [Link](https://www.youtube.com/user/TotallyADD)                  |
+| Optimal Mind Performance | Dr. LeGrand, an ADHD expert who has ADHD himself, provides strategies for optimal mind performance, based on his experiences and learnings while going through medical school                          | Brain-focused videos, tips on foods that boost dopamine, and the effects of caffeine on the brain                                            | [Link](https://www.youtube.com/@doctorlegrand)                   |
+| Dr. Tracey Marks         | Dr. Marks, with over 20 years of experience in psychiatry, addresses all things mental health and her ADHD playlist is full of educational information and advice on treating common symptoms of ADHD​ | Educational information on ADHD and advice on treating common symptoms, with a focus on executive function and its effect on those with ADHD | [Link](https://www.youtube.com/@DrTraceyMarks)                   |
+| Stacey Machelle          | Stacey Machelle uses her channel to educate and empower other black women after her own journey of getting diagnosed with ADHD and learning how to manage her symptoms                                 | Personal experience of managing ADHD symptoms, self-acceptance, and empowerment, particularly targeted towards black women                   | [Link](https://www.youtube.com/@Adhdisthenewblack)               |
+| ADHD reWired             | Hosted by Eric Tivers, a licensed clinical social worker and coach specializing in ADHD. The channel is a combo of podcast and YouTube channel​.                                                       | Understand how the ADHD brain works, accepting who you are, and managing ADHD symptoms or finding ways that work with individual strengths.  | [Link](https://www.youtube.com/channel/UCL56VPTRLlbu6iBayYwhLKQ) |
+| ADHD Mastery             | Stuart started this vlog to document his experience dealing with Inattentive ADHD. It's now grown into a channel about self-awareness, tips, and coping strategies.                                    | Educational videos on self-awareness, tips, and coping strategies for ADHD, like a step-by-step guide on how to keep commitments.            | [Link](https://www.youtube.com/@ADHDMastery)                     |
+
+
+### Books 
+
+| Book Title | Author(s) | Main Focus | Adult/Child |
+| --- | --- | --- | --- |
+| Driven to Distraction | Edward Hallowell, MD and John J. Ratey, MD | Recognizing and coping with ADHD | Both |
+| A Radical Guide for Women with ADHD | Sari Solden | Unique challenges and experiences women face with ADHD | Adult |
+| Thriving with Adult ADHD | Phil Boissiere | Cognitive Behavioral Therapy for managing ADHD | Adult |
+| Order from Chaos | Lynda Hudzina | Organizational strategies for people with ADHD | Adult |
+| What Your ADHD Child Wishes You Knew | Dr. Sharon Saline | Understanding and empowering your child with ADHD | Child |
+| The ADHD Effect on Marriage | Melissa Orlov | How ADHD can impact a relationship and strategies to cope | Adult |
+| Organizing Solutions for People with ADHD | Susan Pinsky | Practical organization strategies for people with ADHD | Adult |
+| ADHD 2.0 | Edward Hallowell, MD and John J. Ratey, MD | Harnessing strengths and updated strategies for managing ADHD | Both |
+| Smart but Scattered Teens | Richard Guare, Peg Dawson, Colin Guare | Strategies to help teens with ADHD enhance executive skills | Child (Teen) |
+| Thriving with ADHD Workbook for Kids | Kelli Miller LCSW MSW | Skill-building activities for kids with ADHD | Child |
 
 <!-- END CONTENT -->
 ## Contributing
