@@ -32,6 +32,8 @@
 
 [Content Creators](#content-creators)
  - [YouTube](#youtube)
+ - [Books](#books)
+ - [Websites](#websites)
 
 <!-- CONTENT -->
 
@@ -143,6 +145,18 @@
 | ADHD 2.0 | Edward Hallowell, MD and John J. Ratey, MD | Harnessing strengths and updated strategies for managing ADHD | Both |
 | Smart but Scattered Teens | Richard Guare, Peg Dawson, Colin Guare | Strategies to help teens with ADHD enhance executive skills | Child (Teen) |
 | Thriving with ADHD Workbook for Kids | Kelli Miller LCSW MSW | Skill-building activities for kids with ADHD | Child |
+
+
+### Websites 
+
+| Resource                                      | Description                                                                                                                   | Main Focus                                                                           | Adult/Child | URL                                 |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------- | ----------------------------------- |
+| CHADD (Children and Adults with ADHD)         | The largest national support organization for ADHD, providing education, advocacy, and support.                               | Resources for children and adults with ADHD, including a directory of professionals. | Both        | [Link](http://www.chadd.org/)       |
+| ADDA (Attention Deficit Disorder Association) | Provides information and training resources for adults with ADHD, promotes ADHD awareness, and offers virtual support groups. | Adult ADHD awareness, resources, and support groups.                                 | Adults      | [Link](http://www.add.org/)         |
+| ADDitude Magazine                             | A comprehensive resource for information on ADHD and related conditions.                                                      | Symptoms, diagnosis, treatment, and advice for living with ADHD.                     | Both        | [Link](http://www.additudemag.com/) |
+| National Institute of Mental Health (NIMH)    | Provides comprehensive information about ADHD, including symptoms, diagnosis, treatments, and related conditions.             | Education about ADHD and other mental health disorders.                              | Both        | [Link](https://www.nimh.nih.gov/)   |
+| ADHD & You                                    | Provides resources for individuals with ADHD and their families, educators, and healthcare providers.                         | Education, management strategies, and tools for living with ADHD.                    | Both        | [Link](https://www.adhdandyou.com/) |
+| AskJan                                    | Information on ADHD, and a great list of real-life examples of accommodations in the workplace.                      | ADHD in the workplace                    | Adults        | [Link](https://askjan.org/disabilities/Attention-Deficit-Hyperactivity-Disorder-AD-HD.cfm) |
 
 <!-- END CONTENT -->
 ## Contributing
