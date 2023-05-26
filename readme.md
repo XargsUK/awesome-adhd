@@ -199,6 +199,8 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 | Children and Adults with ADHD (CHADD) | CHADD is the nation's leading nonprofit organization serving people affected by ADHD. | ADHD 365 podcast brings listeners into conversations about living with ADHD from every imaginable angle. The ADHD 365 podcast provides expert advice, tips, and strategies for families, adults, educators, and professionals. | [Link](https://podcasts.apple.com/us/podcast/children-and-adults-with-adhd-chadd/id1515547563) | [Link](https://open.spotify.com/show/6QiXGYxZ254jeFso1cMABP) |
 | I Have ADHD Podcast | The I Have ADHD Podcast is a clear, concise, and FUN podcast for adults with ADHD | Host Kristen Carder is an ADHD expert who has been supporting ADHDers for over a decade. This podcast is a mix of solo shows + interviews with the authors of all the dusty ADHD books sitting on your shelf. | [Link](https://podcasts.apple.com/us/podcast/i-have-adhd-podcast/id1446874607) | [Link](https://open.spotify.com/show/6t1VWB5kU1QgCPCLypBuMt) |
 
+### Discord Servers
+
 
 <!-- END CONTENT -->
 ## Contributing
@@ -208,3 +210,5 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/XargsUK/awesome-adhd/graphs/contributors)!
+
+[![Hits](https://hits.sh/github.com/XargsUK/awesome-adhd.svg)](https://hits.sh/github.com/XargsUK/awesome-adhd/)
