@@ -4,7 +4,8 @@
 
 <!--lint ignore no-dead-urls-->
 
-<h1>Awesome ADHD <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></h1>
+<h1>Awesome ADHD</h1>
+<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 
 <!-- subtitle -->
 
