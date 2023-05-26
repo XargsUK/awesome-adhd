@@ -1,0 +1,14 @@
+title: Awesome ADHD
+email: bradleydunc@gmail.com
+description: >- 
+  A curated list of ADHD apps, books, ideas and resources across the web! 
+baseurl: "/awesome-adhd" 
+url: "http://xargsuk.github.io"
+twitter_username: _bradduncan
+github_username:  XargsUK
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-midnight
+plugins:
+  - jekyll-feed
