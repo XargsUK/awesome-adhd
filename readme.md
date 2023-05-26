@@ -37,7 +37,7 @@
  - [Subreddits](#subreddits)
  - [Podcasts](#podcasts)
 
- ### Suggest a Resource!
+### Suggest a Resource!
 If you feel that there's a resource missing from this page, [Submit your suggestion!](https://github.com/XargsUK/awesome-adhd/issues/new?assignees=XargsUK&labels=suggestion&projects=&template=%F0%9F%93%9A-new-resource-suggestion.md&title=%5BNEW+RESOURCE%5D)
 
 <!-- CONTENT -->
