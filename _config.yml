@@ -1,3 +1,4 @@
+# Site settings
 title: Awesome ADHD
 email: bradleydunc@gmail.com
 description: >- 
@@ -5,10 +6,17 @@ description: >-
 baseurl: "/awesome-adhd" 
 url: "http://xargsuk.github.io"
 twitter_username: _bradduncan
-github_username:  XargsUK
+github_username: XargsUK
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+assets:
+  - assets/main.scss
