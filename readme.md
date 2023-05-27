@@ -40,9 +40,14 @@
 -   [TikTok](#tiktok)
 -   [Books](#books)
 -   [Websites](#websites)
--   [Subreddits](#subreddits)
 -   [Podcasts](#podcasts)
+
+### Communities
+
+-   [Subreddits](#subreddits)
 -   [Discord Servers](#discord-servers)
+
+### Other
 -   [Other Resources](#other-resources)
 
 ### Suggest a Resource!
