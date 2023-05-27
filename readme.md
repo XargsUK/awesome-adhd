@@ -42,6 +42,7 @@
 -   [Websites](#websites)
 -   [Subreddits](#subreddits)
 -   [Podcasts](#podcasts)
+-   [Discord Servers](#discord-servers)
 -   [Other Resources](#other-resources)
 
 ### Suggest a Resource!
@@ -174,21 +175,23 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 
 ### Books
 
-| Book Title                                | Author(s)                                  | Main Focus                                                                                            | Adult/Child  |
-| ----------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ------------ |
-| Driven to Distraction                     | Edward Hallowell, MD and John J. Ratey, MD | Recognizing and coping with ADHD                                                                      | Both         |
-| A Radical Guide for Women with ADHD       | Sari Solden                                | Unique challenges and experiences women face with ADHD                                                | Adult        |
-| Thriving with Adult ADHD                  | Phil Boissiere                             | Cognitive Behavioral Therapy for managing ADHD                                                        | Adult        |
-| Order from Chaos                          | Lynda Hudzina                              | Organizational strategies for people with ADHD                                                        | Adult        |
-| What Your ADHD Child Wishes You Knew      | Dr. Sharon Saline                          | Understanding and empowering your child with ADHD                                                     | Child        |
-| The ADHD Effect on Marriage               | Melissa Orlov                              | How ADHD can impact a relationship and strategies to cope                                             | Adult        |
-| Organizing Solutions for People with ADHD | Susan Pinsky                               | Practical organization strategies for people with ADHD                                                | Adult        |
-| ADHD 2.0                                  | Edward Hallowell, MD and John J. Ratey, MD | Harnessing strengths and updated strategies for managing ADHD                                         | Both         |
-| Smart but Scattered Teens                 | Richard Guare, Peg Dawson, Colin Guare     | Strategies to help teens with ADHD enhance executive skills                                           | Child (Teen) |
-| Thriving with ADHD Workbook for Kids      | Kelli Miller LCSW MSW                      | Skill-building activities for kids with ADHD                                                          | Child        |
-| The Smart but Scattered Guide to Success  | Peg Dawson, Richard Guare                  | How to use your brain's executive skills to keep up, stay calm, and get organized at work and at home | Adult        |
-| You Mean I'm Not Lazy, Stupid or Crazy?!  | Kate Kelly                                 | The first book about adult ADHD, and the first one written by adults with ADHD                        | Adult        |
-| ADHD Workbook for Teens                   | Lara Honos-Webb                            | Workbook for teens diagnosed with ADHD.                                                               | Child (Teen) |
+| Book Title                                | Author(s)                                  | Main Focus                                                                                                                                            | Adult/Child  |
+| ----------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Driven to Distraction                     | Edward Hallowell, MD and John J. Ratey, MD | Recognizing and coping with ADHD                                                                                                                      | Both         |
+| A Radical Guide for Women with ADHD       | Sari Solden                                | Unique challenges and experiences women face with ADHD                                                                                                | Adult        |
+| Thriving with Adult ADHD                  | Phil Boissiere                             | Cognitive Behavioral Therapy for managing ADHD                                                                                                        | Adult        |
+| Order from Chaos                          | Lynda Hudzina                              | Organizational strategies for people with ADHD                                                                                                        | Adult        |
+| What Your ADHD Child Wishes You Knew      | Dr. Sharon Saline                          | Understanding and empowering your child with ADHD                                                                                                     | Child        |
+| The ADHD Effect on Marriage               | Melissa Orlov                              | How ADHD can impact a relationship and strategies to cope                                                                                             | Adult        |
+| Organizing Solutions for People with ADHD | Susan Pinsky                               | Practical organization strategies for people with ADHD                                                                                                | Adult        |
+| ADHD 2.0                                  | Edward Hallowell, MD and John J. Ratey, MD | Harnessing strengths and updated strategies for managing ADHD                                                                                         | Both         |
+| Smart but Scattered Teens                 | Richard Guare, Peg Dawson, Colin Guare     | Strategies to help teens with ADHD enhance executive skills                                                                                           | Child (Teen) |
+| Thriving with ADHD Workbook for Kids      | Kelli Miller LCSW MSW                      | Skill-building activities for kids with ADHD                                                                                                          | Child        |
+| The Smart but Scattered Guide to Success  | Peg Dawson, Richard Guare                  | How to use your brain's executive skills to keep up, stay calm, and get organized at work and at home                                                 | Adult        |
+| You Mean I'm Not Lazy, Stupid or Crazy?!  | Kate Kelly                                 | The first book about adult ADHD, and the first one written by adults with ADHD                                                                        | Adult        |
+| ADHD Workbook for Teens                   | Lara Honos-Webb                            | Workbook for teens diagnosed with ADHD.                                                                                                               | Child (Teen) |
+| Taking Charge of Adult ADHD               | Russell Barkley, PHD                       | Proven Strategies to Succeed at Work, at Home, and in Relationships                                                                                   | Adult        |
+| The Disorganized Mind                     | Nancy Ratey, Ed.M., M.C.C., S.C.A.C        | Addresses the common issues such as  inattention, time-mismanagement, procrastination, impulsivity, distractibility, and difficulty with transitions. | Adult        |
 
 ### Websites
 
@@ -200,6 +203,7 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 | National Institute of Mental Health (NIMH)    | Provides comprehensive information about ADHD, including symptoms, diagnosis, treatments, and related conditions.             | Education about ADHD and other mental health disorders.                              | Both        | [Link](https://www.nimh.nih.gov/)                                                          |
 | ADHD & You                                    | Provides resources for individuals with ADHD and their families, educators, and healthcare providers.                         | Education, management strategies, and tools for living with ADHD.                    | Both        | [Link](https://www.adhdandyou.co.uk/)                                                      |
 | AskJan                                        | Information on ADHD, and a great list of real-life examples of accommodations in the workplace.                               | ADHD in the workplace                                                                | Adults      | [Link](https://askjan.org/disabilities/Attention-Deficit-Hyperactivity-Disorder-AD-HD.cfm) |
+| ADHD UK                                       | UK ADHD charity. Provides information, support, research, advoacy and awareness.                                              | ADHD in the UK                                                                       | Both        | [Link](https://adhduk.co.uk/)                                                              |
 
 ### Subreddits
 
@@ -234,6 +238,13 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 | Children and Adults with ADHD (CHADD) | CHADD is the nation's leading nonprofit organization serving people affected by ADHD.                                                                                                                                                   | ADHD 365 podcast brings listeners into conversations about living with ADHD from every imaginable angle. The ADHD 365 podcast provides expert advice, tips, and strategies for families, adults, educators, and professionals.          | [Link](https://podcasts.apple.com/us/podcast/children-and-adults-with-adhd-chadd/id1515547563) | [Link](https://open.spotify.com/show/6QiXGYxZ254jeFso1cMABP) |
 | I Have ADHD Podcast                   | The I Have ADHD Podcast is a clear, concise, and FUN podcast for adults with ADHD                                                                                                                                                       | Host Kristen Carder is an ADHD expert who has been supporting ADHDers for over a decade. This podcast is a mix of solo shows + interviews with the authors of all the dusty ADHD books sitting on your shelf.                           | [Link](https://podcasts.apple.com/us/podcast/i-have-adhd-podcast/id1446874607)                 | [Link](https://open.spotify.com/show/6t1VWB5kU1QgCPCLypBuMt) |
 | The ADHD Adults Podcast               | The ADHD Adults Podcast (in)expertly covers issues around ADHD in adults, sharing evidence-based information and personal experiences.                                                                                                  | Comedic conversations discussing new research and relatable ADHD Adult experiances.            | [Link](https://podcasts.apple.com/gb/podcast/the-adhd-adults-podcast/id1591127163)                 | [Link](https://open.spotify.com/show/2oYZwGakl7shJFG0lJ8JMt) |
+
+### Discord Servers
+
+| Name            | Main Focus                                                 | URL                                               |
+| --------------- | ---------------------------------------------------------- | ------------------------------------------------- |
+| The ADHD Adults | UK focused. ADHD Adults UK podcast discord server          | [Invite](https://discord.gg/rR6FYK8SgN)           |
+| ADHD Dopamine   | A safe, warm, active, and welcoming ADHD support community | [Invite](https://discord.gg/invite/adhd-dopamine) |
 
 ### Other Resources
 
