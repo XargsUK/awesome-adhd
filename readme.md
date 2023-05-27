@@ -32,7 +32,7 @@
 -   [Visual Calendars](#visual-calendars)
 -   [Sounds for Focus](#sounds-for-focus)
 -   [Task Management](#task-management)
--   [Health Tracking](#health-tracking)
+-   [Health](#health)
 
 ### Content Creators
 
@@ -143,7 +143,7 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 | Tody     | Smarter Cleaning           | [💠](https://apps.apple.com/gb/app/tody/id595339588)                            | [💠](https://play.google.com/store/apps/details?id=com.looploop.tody)  |         |       |       |        |         |
 | Sweepy   | Schedule Your House Chores | [💠❓](https://apps.apple.com/us/app/sweepy-home-cleaning-schedule/id1498897320) | [💠❓](https://play.google.com/store/apps/details?id=app.sweepy.sweepy) |         |       |       |        |         |
 
-### Health Tracking
+### Health
 
 | App Name                | Description                                                      | iOS                                                                            | Android                                                                                  | Windows | macOS | Linux | Chrome | Website                                                                                   |
 | :---------------------: | :--------------------------------------------------------------: | :----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-----: | :---: | :---: | :----: | :---------------------------------------------------------------------------------------: |
