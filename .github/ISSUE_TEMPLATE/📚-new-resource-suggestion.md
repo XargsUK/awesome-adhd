@@ -1,7 +1,7 @@
 ---
 name: "\U0001F4DA New Resource Suggestion"
 about: Suggest a new resource (app, tool, website, etc) for people with ADHD
-title: "[NEW RESOURCE]"
+title: "[Resource Suggestion]"
 labels: suggestion
 assignees: XargsUK
 
