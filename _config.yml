@@ -19,4 +19,4 @@ sass:
   style: compressed
 
 assets:
-  - assets/main.scss
+  - assets/main.css
