@@ -56,12 +56,13 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 
 ## Apps
 
-| Symbol | Title    | Description                                                         |
-| :----: | :------: | :-----------------------------------------------------------------: |
-| ✔️     | Free     | Completely free / opensource                                        |
-| 💠     | Freemium | Free, but some features are paid                                    |
-| 💲     | Paid     | Most if not all features are paid                                   |
-| ❓     | Untested | Apps which have been recommended, but the repo owner has not tested |
+| Symbol | Title          | Description                                                         |
+| ------ | -------------- | ------------------------------------------------------------------- |
+| ✔️     | Free           | Completely free / opensource                                        |
+| 💠     | Freemium       | Free, but some features are paid                                    |
+| 💲     | Paid           | Most if not all features are paid                                   |
+| ❓      | Untested       | Apps which have been recommended, but the repo owner has not tested |
+| ⌚      | Works on Watch | Apps which work on watchOS/gearOS                                   |
 
 ### Time Management
 
@@ -91,12 +92,13 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 
 ### Visual Calendars
 
-|  App Name  |          Description          |                                       iOS                                      |                                   Android                                   | Windows |                                  macOS                                  | Linux | Chrome |               Website              |
-| :--------: | :---------------------------: | :----------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :-----: | :---------------------------------------------------------------------: | :---: | :----: | :--------------------------------: |
-|  TimeBloc  | Time Block & Schedule Planner |     [💠](https://apps.apple.com/bm/app/timebloc-daily-planner/id1476033780)    |  [💠](https://play.google.com/store/apps/details?id=com.foruslabs.timebloc) |         |                                                                         |       |        |                                    |
-| Structured |  Visual Calendar & To-Do List |     [💠](https://apps.apple.com/us/app/structured-day-planner/id1499198946)    |                                                                             |         | [💠](https://apps.apple.com/us/app/structured-day-planner/id1499198946) |       |        |                                    |
-|    PiCal   |    Visual ADHD Day Planner    | [💠](https://apps.apple.com/gb/app/pical-visual-adhd-day-planner/id1560704848) |                                                                             |         |                                                                         |       |        |                                    |
-|    Tiimo   |    Schedule, focus & to-do    |               [💠](https://apps.apple.com/app/tiimo/id1480220328)              | [💠](https://play.google.com/store/apps/details?id=com.tiimoapp.androidapp) |         |                                                                         |       |        | [💠](https://portal.tiimoapp.com/) |
+| App Name          | Description                     | iOS/watchOS                                                                    | Android                                                                     | Windows | macOS                                                                   | Linux | Chrome | Website                            |
+| :---------------: | :-----------------------------: | :----------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :-----: | :---------------------------------------------------------------------: | :---: | :----: | :--------------------------------: |
+| TimeBloc          | Time Block & Schedule Planner   | [💠](https://apps.apple.com/bm/app/timebloc-daily-planner/id1476033780)        | [💠](https://play.google.com/store/apps/details?id=com.foruslabs.timebloc)  |         |                                                                         |       |        |                                    |
+| Structured        | Visual Calendar & To-Do List    | [💠](https://apps.apple.com/us/app/structured-day-planner/id1499198946)        |                                                                             |         | [💠](https://apps.apple.com/us/app/structured-day-planner/id1499198946) |       |        |                                    |
+| PiCal             | Visual ADHD Day Planner         | [💠](https://apps.apple.com/gb/app/pical-visual-adhd-day-planner/id1560704848) |                                                                             |         |                                                                         |       |        |                                    |
+| Tiimo             | Schedule, focus & to-do         | [💠](https://apps.apple.com/app/tiimo/id1480220328)                            | [💠](https://play.google.com/store/apps/details?id=com.tiimoapp.androidapp) |         |                                                                         |       |        | [💠](https://portal.tiimoapp.com/) |
+| Calendar Timeline | Visual timeline for Apple Watch | [💲⌚](https://apps.apple.com/gb/app/calendar-timeline/id1502851960)             |                                                                             |         |                                                                         |       |        |                                    |
 
 ### Sounds for Focus
 
