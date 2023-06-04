@@ -48,7 +48,13 @@
 -   [Discord Servers](#discord-servers)
 
 ### Other
+
 -   [Other Resources](#other-resources)
+
+### About the Repo
+
+-   [Contributing](#contributing)
+-   [Disclaimer](#disclaimer)
 
 ### Suggest a Resource!
 
@@ -276,10 +282,20 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 
 ## Contributing
 
-[Open a suggestion](https://github.com/XargsUK/awesome-adhd/issues/new?assignees=XargsUK&labels=suggestion&projects=&template=%F0%9F%93%9A-new-resource-suggestion.md&title=%5BNEW+RESOURCE%5D) to get a resource added to the list! Issues/suggestions are subject to the [Code of Conduct](code_of_conduct.md) 
+[Open a suggestion](https://github.com/XargsUK/awesome-adhd/issues/new?assignees=XargsUK&labels=suggestion&projects=&template=%F0%9F%93%9A-new-resource-suggestion.md&title=%5BNEW+RESOURCE%5D) to get a resource added to the list! Issues/suggestions are subject to the [Code of Conduct](code_of_conduct.md). Note, an item 
 
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/XargsUK/awesome-adhd/graphs/contributors)!
 
 [![Hits](https://hits.sh/github.com/XargsUK/awesome-adhd.svg)](https://hits.sh/github.com/XargsUK/awesome-adhd/)
+
+## Disclaimer
+
+The information and resources listed in this repository are provided for informational purposes only and should not be construed as a full endorsement of any specific product, service, or resource. While the list includes resources that many find helpful, it's important to understand that what works well for one person may not work as well for another.
+
+Every individual's needs and experiences are unique, especially in the context of ADHD. The efficacy of these resources can vary widely from person to person. It is always recommended to do thorough research, consult professionals, and consider personal circumstances and needs before deciding to use any resource, application, or service listed here.
+
+Remember, this list serves as a starting point, a guide to explore potential aids that could be helpful. But it is by no means exhaustive or universally applicable. Each person with ADHD is on a unique journey, and it is important to approach it as such.
+
+Please use your own discretion when choosing to use any of the resources listed in this repository.
