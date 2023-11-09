@@ -228,7 +228,7 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 ### Websites
 
 | Resource                                      | Description                                                                                                                   | Main Focus                                                                           | Adult/Child | URL                                                                                        |
-| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------- | ------------------------------------------------------------------------------------------ |
+| :-------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :---------: | :----------------------------------------------------------------------------------------: |
 | CHADD (Children and Adults with ADHD)         | The largest national support organization for ADHD, providing education, advocacy, and support.                               | Resources for children and adults with ADHD, including a directory of professionals. | Both        | [Link](http://www.chadd.org/)                                                              |
 | ADDA (Attention Deficit Disorder Association) | Provides information and training resources for adults with ADHD, promotes ADHD awareness, and offers virtual support groups. | Adult ADHD awareness, resources, and support groups.                                 | Adults      | [Link](http://www.add.org/)                                                                |
 | ADDitude Magazine                             | A comprehensive resource for information on ADHD and related conditions.                                                      | Symptoms, diagnosis, treatment, and advice for living with ADHD.                     | Both        | [Link](http://www.additudemag.com/)                                                        |
@@ -236,6 +236,8 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 | ADHD & You                                    | Provides resources for individuals with ADHD and their families, educators, and healthcare providers.                         | Education, management strategies, and tools for living with ADHD.                    | Both        | [Link](https://www.adhdandyou.co.uk/)                                                      |
 | AskJan                                        | Information on ADHD, and a great list of real-life examples of accommodations in the workplace.                               | ADHD in the workplace                                                                | Adults      | [Link](https://askjan.org/disabilities/Attention-Deficit-Hyperactivity-Disorder-AD-HD.cfm) |
 | ADHD UK                                       | UK ADHD charity. Provides information, support, research, advoacy and awareness.                                              | ADHD in the UK                                                                       | Both        | [Link](https://adhduk.co.uk/)                                                              |
+| ADHDadultUK                                   | The UK's Leading Adult ADHD Charity                                                                                           | Adults with ADHD in the UK                                                           | Adults      | [Link](https://www.adhdadult.uk/)                                                          |
+| Focus: The Online Adult ADHD Magazine         | Evidence-based articles on ADHD                                                                                               | Evidence based articles about ADHD                                                   | Adults      | [Link](https://focusmag.uk/)                                                               |
 
 ### Subreddits
 
@@ -274,17 +276,18 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 ### Discord Servers
 
 | Name            | Main Focus                                                 | URL                                               |
-| --------------- | ---------------------------------------------------------- | ------------------------------------------------- |
+| :-------------: | :--------------------------------------------------------: | :-----------------------------------------------: |
 | The ADHD Adults | UK focused. ADHD Adults UK podcast discord server          | [Invite](https://discord.gg/rR6FYK8SgN)           |
 | ADHD Dopamine   | A safe, warm, active, and welcoming ADHD support community | [Invite](https://discord.gg/invite/adhd-dopamine) |
+| ADHDadultUK     | UK focused. Adults with ADHD.                              | [Invite](https://discord.gg/458smEgfUS)           |
 
 ### Other Resources
 
-| Type    | Name          | Topic    | Description                                                   | URL                                      |
-| ------- | ------------- | -------- | ------------------------------------------------------------- | ---------------------------------------- |
-| 📚🎙️▶️ | Dana K. White | Cleaning | Reality-Based Cleaning, Decluttering, & Organizing            | [Link](https://www.aslobcomesclean.com/) |
-
-
+| Type    | Name                   | Type    | Description                                                   | URL                                                                                            |
+| :-----: | :--------------------: | :-----: | :-----------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
+| 📚🎙️▶️ | Dana K. White          | Website | Reality-Based Cleaning, Decluttering, & Organizing            | [Link](https://www.aslobcomesclean.com/)                                                       |
+| 💻      | Magic ToDo             | Tool    | A tool which helps you to break down tasks into smaller tasks | [Link](https://goblin.tools/)                                                                  |
+| 📚      | ADHD & Substance Abuse | Article | Exploring ADHD and it's link with substance abuse             | [Link](https://rehabsuk.com/blog/adhd-triples-risk-of-substance-abuse-but-it-doesn-t-have-to/) |
 
 ## Contributing
 
