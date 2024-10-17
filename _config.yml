@@ -9,14 +9,24 @@ twitter_username: _bradduncan
 github_username: XargsUK
 
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-dinky
+# markdown: kramdown
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
 
-sass:
-  sass_dir: _sass
-  style: compressed
+show_downloads: false
 
 assets:
   - assets/main.css
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
