@@ -1,0 +1,93 @@
+community:
+  # Reddit Communities
+  - name: "r/ADHD"
+    description: "The main ADHD subreddit with over 1.2M members"
+    platform: "reddit"
+    url: "https://www.reddit.com/r/ADHD"
+    memberCount: "1.2M+"
+
+  - name: "r/ADHDUK"
+    description: "For All Things ADHD in the United Kingdom"
+    platform: "reddit"
+    url: "https://www.reddit.com/r/ADHDUK/"
+
+  - name: "r/adhd_anxiety"
+    description: "For people with ADHD and/or anxiety"
+    platform: "reddit"
+    url: "https://www.reddit.com/r/adhd_anxiety"
+
+  - name: "r/adhdmeme"
+    description: "Memes related to ADHD"
+    platform: "reddit"
+    url: "https://www.reddit.com/r/adhdmeme"
+
+  - name: "r/ADHDers"
+    description: "ADHDers unite. This subreddit was created to provide a positive, safe, and inclusive environment for those with ADHD to converse"
+    platform: "reddit"
+    url: "https://www.reddit.com/r/ADHDers"
+
+  - name: "r/GiftedADHD"
+    description: "Private community. For discussing ADHD and giftedness"
+    platform: "reddit"
+    url: "https://www.reddit.com/r/GiftedADHD"
+
+  - name: "r/ADHD_LPT"
+    description: "Life pro tips (LPTs) for those diagnosed with ADHD"
+    platform: "reddit"
+    url: "https://www.reddit.com/r/ADHD_LPT"
+
+  - name: "r/AdultADHDSupportGroup"
+    description: "Another small sub. Pretty much what it says on the tin"
+    platform: "reddit"
+    url: "https://www.reddit.com/r/AdultADHDSupportGroup"
+
+  - name: "r/TwoXADHD"
+    description: "For women with ADHD"
+    platform: "reddit"
+    url: "https://www.reddit.com/r/TwoXADHD"
+
+  - name: "r/adhdwomen"
+    description: "Another subreddit for women with ADHD"
+    platform: "reddit"
+    url: "https://www.reddit.com/r/adhdwomen"
+
+  - name: "r/ADHD_Programmers"
+    description: "For programmers with ADHD"
+    platform: "reddit"
+    url: "https://www.reddit.com/r/ADHD_Programmers"
+
+  - name: "r/Asdhd"
+    description: "For those with autism and ADHD"
+    platform: "reddit"
+    url: "https://www.reddit.com/r/Asdhd"
+
+  - name: "r/ParentingADHD"
+    description: "A relatively small sub for parents of children with ADHD"
+    platform: "reddit"
+    url: "https://www.reddit.com/r/ParentingADHD"
+
+  - name: "r/ADHD_partners"
+    description: "For partners of those diagnosed with ADHD"
+    platform: "reddit"
+    url: "https://www.reddit.com/r/ADHD_partners"
+
+  - name: "r/ADHD_college"
+    description: "For those in higher education with ADHD"
+    platform: "reddit"
+    url: "https://www.reddit.com/r/ADHD_college"
+
+  # Discord Communities
+  - name: "The ADHD Adults"
+    description: "UK focused. ADHD Adults UK podcast discord server"
+    platform: "discord"
+    url: "https://discord.gg/rR6FYK8SgN"
+
+  - name: "ADHD Dopamine"
+    description: "A safe, warm, active, and welcoming ADHD support community"
+    platform: "discord"
+    url: "https://discord.gg/invite/adhd-dopamine"
+
+  - name: "ADHDadultUK"
+    description: "UK focused. Adults with ADHD."
+    platform: "discord"
+    url: "https://discord.gg/458smEgfUS"

@@ -1,0 +1,80 @@
+resources:
+  # Websites
+  - name: "CHADD (Children and Adults with ADHD)"
+    description: "The largest national support organization for ADHD, providing education, advocacy, and support."
+    type: "website"
+    url: "http://www.chadd.org/"
+    mainFocus: "Resources for children and adults with ADHD, including a directory of professionals."
+    audience: ["adult", "child"]
+
+  - name: "ADDA (Attention Deficit Disorder Association)"
+    description: "Provides information and training resources for adults with ADHD, promotes ADHD awareness, and offers virtual support groups."
+    type: "website"
+    url: "http://www.add.org/"
+    mainFocus: "Adult ADHD awareness, resources, and support groups."
+    audience: ["adult"]
+
+  - name: "ADDitude Magazine"
+    description: "A comprehensive resource for information on ADHD and related conditions."
+    type: "website"
+    url: "http://www.additudemag.com/"
+    mainFocus: "Symptoms, diagnosis, treatment, and advice for living with ADHD."
+    audience: ["adult", "child"]
+
+  - name: "ADHD UK"
+    description: "UK ADHD charity. Provides information, support, research, advocacy and awareness."
+    type: "website"
+    url: "https://adhduk.co.uk/"
+    mainFocus: "ADHD in the UK"
+    audience: ["adult", "child"]
+
+  # Books
+  - name: "How to ADHD"
+    description: "ADHD-friendly book providing practical advice and tools for dealing with ADHD"
+    type: "book"
+    author: "Jessica McCabe"
+    mainFocus: "Practical advice and tools for ADHD"
+    audience: ["adult", "child"]
+
+  - name: "Driven to Distraction"
+    description: "Recognizing and coping with ADHD"
+    type: "book"
+    author: "Edward Hallowell, MD and John J. Ratey, MD"
+    mainFocus: "Understanding and managing ADHD"
+    audience: ["adult", "child"]
+
+  - name: "A Radical Guide for Women with ADHD"
+    description: "Unique challenges and experiences women face with ADHD"
+    type: "book"
+    author: "Sari Solden"
+    mainFocus: "Women's experiences with ADHD"
+    audience: ["adult"]
+
+  - name: "ADHD 2.0"
+    description: "Harnessing strengths and updated strategies for managing ADHD"
+    type: "book"
+    author: "Edward Hallowell, MD and John J. Ratey, MD"
+    mainFocus: "Modern approaches to ADHD management"
+    audience: ["adult", "child"]
+
+  # Other Resources
+  - name: "Dana K. White"
+    description: "Reality-Based Cleaning, Decluttering, & Organizing"
+    type: "other"
+    url: "https://www.aslobcomesclean.com/"
+    category: "Organization"
+    audience: ["adult"]
+
+  - name: "Magic ToDo"
+    description: "A tool which helps you to break down tasks into smaller tasks"
+    type: "other"
+    url: "https://goblin.tools/"
+    category: "Productivity"
+    audience: ["adult"]
+
+  - name: "ADHD & Substance Abuse"
+    description: "Exploring ADHD and its link with substance abuse"
+    type: "other"
+    url: "https://rehabsuk.com/blog/adhd-triples-risk-of-substance-abuse-but-it-doesn-t-have-to/"
+    category: "Health"
+    audience: ["adult"]

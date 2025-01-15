@@ -1,0 +1,558 @@
+apps:
+  # Time Management Apps
+  - name: ActivityWatch
+    description: Automatically track time on your devices
+    category: time-management
+    image: /images/apps/android/ActivityWatch.png
+    platforms:
+      android: https://activitywatch.net/
+      windows: https://activitywatch.net/
+      macos: https://activitywatch.net/
+      linux: https://activitywatch.net/
+      chrome: https://activitywatch.net/
+    pricing: free
+
+  - name: Flipd
+    description: Productivity, time tracker
+    category: time-management
+    image: /images/apps/ios/Flipd.png
+    platforms:
+      ios: https://apps.apple.com/gb/app/flipd-focus-study-timer/id1071708905
+      android: https://play.google.com/store/apps/details?id=com.flipd.app
+    pricing: freemium
+
+  - name: TomatoTimer
+    description: An easy to use Pomodoro Technique Timer
+    category: time-management
+    platforms:
+      chrome: https://www.toptal.com/project-managers/tomato-timer
+    pricing: free
+
+  - name: Focus Keeper
+    description: Productive Timer - Work & Study
+    category: time-management
+    image: /images/apps/ios/Focus_Keeper.png
+    platforms:
+      ios: https://apps.apple.com/gb/app/focus-keeper-time-management/id867374917
+      android: https://play.google.com/store/apps/details?id=co.pixo.apps.focuskeeper
+      website: https://focuskeeper.co/
+    pricing: freemium
+
+  - name: Windows Clock
+    description: Timers, focus sessions, alarms and more
+    category: time-management
+    platforms:
+      windows: https://apps.microsoft.com/store/detail/windows-clock/9WZDNCRFJ3PR
+    pricing: free
+
+  - name: Focus - Productivity Timer
+    description: To-Do Lists, Time Tracker
+    category: time-management
+    image: /images/apps/ios/Focus_-_Productivity_Timer.png
+    platforms:
+      ios: https://apps.apple.com/us/app/focus-productivity-timer/id975017240
+      watchos: true
+    pricing: freemium
+
+  - name: Pomotroid
+    description: A simple, configurable and visually pleasing Pomodoro timer
+    category: time-management
+    platforms:
+      windows: https://splode.github.io/pomotroid/
+    pricing: free
+
+  - name: Bullet Journal
+    description: Companion to the Bullet Journal method
+    category: time-management
+    image: /images/apps/ios/Bullet_Journal.png
+    platforms:
+      ios: https://itunes.apple.com/us/app/bullet-journal-companion/id1201419241
+      android: https://play.google.com/store/apps/details?id=com.bulletjournal.companion
+      website: https://www.youtube.com/watch?v=fm15cmYU0IM
+    pricing: paid
+
+  # Block Distractions Apps
+  - name: Opal
+    description: Measure your focus, block distractions, automate your days and so much more
+    category: block-distractions
+    image: /images/apps/ios/Opal.png
+    platforms:
+      ios: https://apps.apple.com/app/id1497465230
+      chrome: https://chrome.google.com/webstore/detail/opal-sync-%E2%80%93-sync-with-the/lmhpbdikmpeolddmaemjgbhbpngeeopj
+    pricing: freemium
+
+  - name: Freedom
+    description: Limit & Block Distracting Apps
+    category: block-distractions
+    image: /images/apps/ios/Freedom.png
+    platforms:
+      ios: https://apps.apple.com/app/freedom-block-distractions/id1269788228
+      android: https://play.google.com/store/apps/details?id=to.freedom.android2
+      windows: https://cdn.freedom.to/installers/FreedomSetup.exe
+      macos: https://cdn.freedom.to/installers/FreedomSetup.dmg
+      chrome: https://chrome.google.com/webstore/detail/freedom-website-blocker-f/abdkjmofmjelgafcdffaimhgdgpagmop
+    pricing: freemium
+
+  - name: RescueTime
+    description: Take back control of your time
+    category: block-distractions
+    platforms:
+      windows: https://www.rescuetime.com/
+      macos: https://www.rescuetime.com/
+    pricing: freemium
+
+  - name: Momentum
+    description: Turn your potential into progress with a beautifully simple start page
+    category: block-distractions
+    platforms:
+      chrome: https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca
+    pricing: freemium
+
+  - name: Forest
+    description: Stay focused, be present
+    category: block-distractions
+    image: /images/apps/ios/Forest.png
+    platforms:
+      ios: https://apps.apple.com/app/apple-store/id866450515
+      watchos: true
+      android: https://play.google.com/store/apps/details?id=cc.forestapp
+      chrome: https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk
+    pricing: freemium
+
+  - name: SelfControl
+    description: Helps you avoid distracting websites
+    category: block-distractions
+    platforms:
+      macos: https://selfcontrolapp.com/
+    pricing: free
+
+  - name: Cold Turkey
+    description: Block websites, games and applications to boost your productivity
+    category: block-distractions
+    platforms:
+      windows: https://getcoldturkey.com/
+      macos: https://getcoldturkey.com/
+    pricing: freemium
+
+  - name: Go Fucking Work
+    description: Uses profanity for extra motivation (18+)
+    category: block-distractions
+    platforms:
+      chrome: https://chrome.google.com/webstore/detail/go-fucking-work/hibmkkpfegfiinilnlabbfnjcopdiiig
+    pricing: free
+
+  - name: Just Focus
+    description: Block distracting websites
+    category: block-distractions
+    platforms:
+      chrome: https://chrome.google.com/webstore/detail/just-focus/gefaddaengbodpiobpbgblajdboalmgc
+    pricing: free
+
+  # Visual Calendars
+  - name: TimeBloc
+    description: Time Block & Schedule Planner
+    category: visual-calendars
+    image: /images/apps/ios/TimeBloc.png
+    platforms:
+      ios: https://apps.apple.com/bm/app/timebloc-daily-planner/id1476033780
+      android: https://play.google.com/store/apps/details?id=com.foruslabs.timebloc
+    pricing: freemium
+
+  - name: Structured
+    description: Visual Calendar & To-Do List
+    category: visual-calendars
+    image: /images/apps/ios/Structured.png
+    platforms:
+      ios: https://apps.apple.com/us/app/structured-day-planner/id1499198946
+      watchos: true
+      macos: https://apps.apple.com/us/app/structured-day-planner/id1499198946
+    pricing: freemium
+
+  - name: PiCal
+    description: Visual ADHD Day Planner
+    category: visual-calendars
+    image: /images/apps/ios/PiCal.png
+    platforms:
+      ios: https://apps.apple.com/gb/app/pical-visual-adhd-day-planner/id1560704848
+      watchos: true
+    pricing: freemium
+
+  - name: Tiimo
+    description: Schedule, focus & to-do
+    category: visual-calendars
+    image: /images/apps/ios/Tiimo.png
+    platforms:
+      ios: https://apps.apple.com/app/tiimo/id1480220328
+      watchos: true
+      android: https://play.google.com/store/apps/details?id=com.tiimoapp.androidapp
+      website: https://portal.tiimoapp.com/
+    pricing: freemium
+
+  - name: Calendar Timeline
+    description: Visual timeline for Apple Watch
+    category: visual-calendars
+    image: /images/apps/ios/Calendar_Timeline.png
+    platforms:
+      ios: https://apps.apple.com/gb/app/calendar-timeline/id1502851960
+      watchos: true
+    pricing: paid
+
+  # Sounds for Focus
+  - name: ADHD White Noise + Brown, Pink
+    description: ADHD noise for work and sleep
+    category: sounds-for-focus
+    image: /images/apps/ios/ADHD_White_Noise___Brown__Pink.png
+    platforms:
+      ios: https://apps.apple.com/gb/app/adhd-white-noise-brown-pink/id1632615763
+      android: https://play.google.com/store/apps/details?id=io.mindist.noise
+    pricing: free
+
+  - name: Brain.fm
+    description: Brainwave Music, Improve Focus
+    category: sounds-for-focus
+    image: /images/apps/ios/Brain_fm.png
+    platforms:
+      ios: https://itunes.apple.com/us/app/brain-fm-music-for-the-brain/id1110684238?mt=8
+      android: https://play.google.com/store/apps/details?id=com.brainfm.app
+      website: https://www.brain.fm/
+    pricing: paid
+
+  - name: Endel
+    description: Focus, Sleep, Relax - Nature sounds, noise, beats
+    category: sounds-for-focus
+    image: /images/apps/ios/Endel.png
+    platforms:
+      ios: https://apps.apple.com/id1346247457
+      watchos: true
+      android: https://play.google.com/store/apps/details?id=com.endel.endel
+      macos: https://apps.apple.com/app/id1346247457
+      website: https://endel.io/
+    pricing: paid
+
+  - name: Focus@will
+    description: Scientifically optimized music to help you focus
+    category: sounds-for-focus
+    image: /images/apps/ios/Focus_will.png
+    platforms:
+      ios: https://apps.apple.com/us/app/focus-will-control-your-add/id638810714
+      android: https://play.google.com/store/apps/details?id=com.focusatwill.androidApp
+      windows: https://www.focusatwill.com/app/downloads/windows
+      website: https://www.focusatwill.com/
+    pricing: paid
+
+  - name: Rainy Mood
+    description: Focus, Relax, and Sleep
+    category: sounds-for-focus
+    image: /images/apps/ios/Rainy_Mood.png
+    platforms:
+      ios: https://apps.apple.com/us/app/rainy-mood/id566752651
+      android: https://play.google.com/store/apps/details?id=com.TailoredMusic.RainyMood
+      website: https://rainymood.com/
+    pricing: paid
+
+  - name: myNoise
+    description: Focus • Relax • Sleep
+    category: sounds-for-focus
+    platforms:
+      website: https://mynoise.net/
+    pricing: free
+
+  - name: SomaFM
+    description: Listener-supported, commercial-free radio
+    category: sounds-for-focus
+    image: /images/apps/ios/SomaFM.png
+    platforms:
+      ios: https://apps.apple.com/us/app/somafm-radio-player/id406262816
+      android: https://play.google.com/store/apps/details?id=com.dgmltn.radiomg.somafm
+      windows: https://apps.microsoft.com/store/detail/somafm/9NTXZ19JFTR3
+      website: https://somafm.com/#genre_ambient
+    pricing: free
+
+  - name: Headspace
+    description: Headspace for Meditation, Mindfulness and Sleep
+    category: sounds-for-focus
+    image: /images/apps/ios/Headspace.png
+    platforms:
+      ios: https://apps.apple.com/us/app/headspace-mindful-meditation/id493145008
+      watchos: true
+      android: https://play.google.com/store/apps/details?id=com.getsomeheadspace.android
+      website: https://www.headspace.com/
+    pricing: paid
+
+  - name: Calm
+    description: Sleep, Meditation, Relaxation
+    category: sounds-for-focus
+    image: /images/apps/ios/Calm.png
+    platforms:
+      ios: https://apps.apple.com/us/app/calm/id571800810
+      watchos: true
+      android: https://play.google.com/store/apps/details?id=com.calm.android
+      website: https://www.calm.com/
+    pricing: paid
+
+  - name: Blanket
+    description: Background noises for Linux
+    category: sounds-for-focus
+    image: /images/apps/linux/Blanket.webp
+    platforms:
+      linux: https://flathub.org/en-GB/apps/com.rafaelmardojai.Blanket
+    pricing: free
+
+  - name: Noises
+    description: Premium Masking Sounds
+    category: sounds-for-focus
+    platforms:
+      website: https://noises.online/
+    pricing: free
+
+  # Task Management - To-do Lists
+  - name: Due
+    description: Never Forget Anything Again
+    category: task-management
+    image: /images/apps/ios/Due.png
+    platforms:
+      ios: https://apps.apple.com/bm/app/timebloc-daily-planner/id390017969
+      watchos: true
+      macos: https://apps.apple.com/bm/app/timebloc-daily-planner/id390017969
+    pricing: paid
+
+  - name: Remember The Milk
+    description: Online to-do list and task management
+    category: task-management
+    image: /images/apps/ios/Remember_The_Milk.png
+    platforms:
+      ios: https://apps.apple.com/us/app/remember-the-milk-to-do-list/id293561396
+      watchos: true
+      android: https://play.google.com/store/apps/details?id=com.rememberthemilk.MobileRTM
+      windows: https://www.rememberthemilk.com/services/windows/
+      macos: https://www.rememberthemilk.com/services/mac/
+      linux: https://www.rememberthemilk.com/services/linux/
+      chrome: https://chrome.google.com/webstore/detail/remember-the-milk/chdiaibgndcpagmnpkjoelgfkommjbni
+      website: https://www.rememberthemilk.com/
+    pricing: freemium
+
+  - name: Microsoft To Do
+    description: Capture Tasks & Set Reminders
+    category: task-management
+    image: /images/apps/ios/Microsoft_To_Do.png
+    platforms:
+      ios: https://apps.apple.com/app/id1212616790?mt=8
+      android: https://play.google.com/store/apps/details?id=com.microsoft.todos
+      windows: https://apps.microsoft.com/store/detail/microsoft-to-do-lists-tasks-reminders/9NBLGGH5R558
+      website: https://todo.microsoft.com/
+    pricing: free
+
+  - name: Regularly
+    description: Recurring To-do, clean UI
+    category: task-management
+    platforms:
+      android: https://play.google.com/store/apps/details?id=com.ugglynoodle.regularly
+    pricing: freemium
+
+  - name: nag reminder
+    description: Similar to Due, persistent notifications for tasks!
+    category: task-management
+    image: /images/apps/android/nag_reminder.png
+    platforms:
+      android: https://play.google.com/store/apps/details?id=com.robinkunz.nag
+    pricing: freemium
+
+  - name: goblin.tools
+    description: Break down a task into smaller tasks magically
+    category: task-management
+    platforms:
+      website: https://goblin.tools/
+    pricing: free
+
+  - name: MyLifeOrganized
+    description: Flexible task management tool with dependencies
+    category: task-management
+    image: /images/apps/ios/MyLifeOrganized.png
+    platforms:
+      ios: https://itunes.apple.com/us/app/mylifeorganized/id649795842
+      watchos: true
+      android: https://play.google.com/store/apps/details?id=net.mylifeorganized.mlo
+      windows: https://www.mylifeorganized.net/todo-list-windows.shtml
+    pricing: paid
+
+  # Task Management - Projects
+  - name: Trello
+    description: Projects? Workflows? organize anything!
+    category: task-management
+    image: /images/apps/ios/Trello.png
+    platforms:
+      ios: https://apps.apple.com/us/app/trello-organize-anything/id461504587
+      android: https://play.google.com/store/apps/details?id=com.trello
+      windows: https://www.microsoft.com/en-us/p/trello/9nblggh4xxvw
+      macos: https://itunes.apple.com/app/trello/id1278508951
+      linux: https://snapcraft.io/trello-desktop
+      website: https://trello.com/
+    pricing: freemium
+
+  - name: Notion
+    description: Your wiki, docs & projects. Together
+    category: task-management
+    image: /images/apps/ios/Notion.png
+    platforms:
+      ios: https://apps.apple.com/app/notion-notes-tasks-wikis/id1232780281
+      android: https://play.google.com/store/apps/details?id=notion.id
+      windows: https://www.notion.so/desktop
+      macos: https://www.notion.so/desktop
+      website: https://www.notion.so/
+    pricing: freemium
+
+  - name: Lunatask
+    description: To-do, notebook, habit and mood tracker
+    category: task-management
+    platforms:
+      windows: https://apps.microsoft.com/store/detail/lunatask/9N6RQHPVL7PK
+      macos: https://apps.apple.com/us/app/lunatask-track-tasks-habits/id1583719331
+      linux: https://snapcraft.io/lunatask
+    pricing: freemium
+
+  - name: Asana
+    description: Get to your goals faster
+    category: task-management
+    image: /images/apps/ios/Asana.png
+    platforms:
+      ios: https://apps.apple.com/us/app/asana-mobile/id489969512
+      android: https://play.google.com/store/apps/details?id=com.asana.app
+      windows: https://asana.com/download
+      macos: https://asana.com/download
+      website: https://asana.com/
+    pricing: freemium
+
+  # Task Management - Chores
+  - name: Tody
+    description: Smarter Cleaning
+    category: task-management
+    image: /images/apps/ios/Tody.png
+    platforms:
+      ios: https://apps.apple.com/gb/app/tody/id595339588
+      android: https://play.google.com/store/apps/details?id=com.looploop.tody
+    pricing: freemium
+
+  - name: Sweepy
+    description: Schedule Your House Chores
+    category: task-management
+    image: /images/apps/ios/Sweepy.png
+    platforms:
+      ios: https://apps.apple.com/us/app/sweepy-home-cleaning-schedule/id1498897320
+      watchos: true
+      android: https://play.google.com/store/apps/details?id=app.sweepy.sweepy
+    pricing: freemium
+
+  # Health
+  - name: Bearable
+    description: Track Pain, Illness & Wellness
+    category: health
+    image: /images/apps/ios/Bearable.png
+    platforms:
+      ios: https://apps.apple.com/us/app/bearable-mood-symptoms/id1482581097
+      android: https://play.google.com/store/apps/details?id=com.bearable
+    pricing: freemium
+
+  - name: Sleep Cycle
+    description: Recorder, Sounds & Alarm Clock
+    category: health
+    image: /images/apps/ios/Sleep_Cycle.png
+    platforms:
+      ios: https://apps.apple.com/gb/app/sleep-cycle-sleep-tracker/id320606217
+      watchos: true
+      android: https://play.google.com/store/apps/details?id=com.northcube.sleepcycle
+    pricing: freemium
+
+  - name: Rise Sleep
+    description: Better Health, Focus & Habits
+    category: health
+    image: /images/apps/ios/Rise_Sleep.png
+    platforms:
+      ios: https://apps.apple.com/us/app/rise-sleep-energy-tracker/id1453884781
+      watchos: true
+      android: https://play.google.com/store/apps/details?id=com.risesci.nyx
+    pricing: paid
+
+  - name: Sleep as Android
+    description: Stop oversleeping - Smart alarm, with CAPTCHA!
+    category: health
+    image: /images/apps/android/Sleep_as_Android.png
+    platforms:
+      android: https://play.google.com/store/apps/details?id=com.urbandroid.sleep
+      watchos: true
+    pricing: freemium
+
+  - name: Medisafe
+    description: Pill and Medicine Reminder
+    category: health
+    image: /images/apps/ios/Medisafe.png
+    platforms:
+      ios: https://apps.apple.com/us/app/medisafe-medication-management/id573916946
+      watchos: true
+      android: https://play.google.com/store/apps/details?id=com.medisafe.android.client
+    pricing: free
+
+  - name: ADHD Medication Tracker
+    description: Google sheet template for tracking side effects during titration
+    category: health
+    image: /images/web/google-sheets.png
+    platforms:
+      website: https://docs.google.com/spreadsheets/d/1aLGfJffgr1NhsRxlNnHZF4aVaKWfKBHfNGl0mFzTbuY
+    pricing: free
+
+  - name: Inflow
+    description: Learn & Build Better Habits. CBT based.
+    category: health
+    image: /images/apps/ios/Inflow.png
+    platforms:
+      ios: https://apps.apple.com/us/app/inflow-manage-your-adhd/id1528183849
+      android: https://play.google.com/store/apps/details?id=inflow.adhd.productivity
+      website: https://www.getinflow.io/
+    pricing: paid
+
+  # Notetaking
+  - name: Glean
+    description: Cloud-based note-taking app
+    category: notetaking
+    image: /images/apps/ios/Glean.png
+    platforms:
+      ios: https://apps.apple.com/gb/app/glean-notes/id1498045022
+      android: https://play.google.com/store/apps/details?id=co.glean.app
+      windows: https://help.glean.com/en/articles/5017232-get-the-desktop-app
+      macos: https://help.glean.com/en/articles/5017232-get-the-desktop-app
+      linux: https://help.glean.com/en/articles/5017232-get-the-desktop-app
+      website: https://play.google.com/store/apps/details?id=co.glean.app
+    pricing: paid
+
+  - name: Evernote
+    description: Note pad, to-do list, planner
+    category: notetaking
+    image: /images/apps/ios/Evernote.png
+    platforms:
+      ios: https://apps.apple.com/us/app/evernote-notes-organizer/id281796108
+      android: https://play.google.com/store/apps/details?id=com.evernote
+      windows: https://evernote.com/download
+      macos: https://evernote.com/download
+      linux: https://evernote.com/download
+      website: https://evernote.com/
+    pricing: freemium
+
+  - name: Notability
+    description: Easy note-taking & annotation
+    category: notetaking
+    image: /images/apps/ios/Notability.png
+    platforms:
+      ios: https://apps.apple.com/us/app/notability/id360593530
+      macos: https://apps.apple.com/us/app/notability/id360593530
+    pricing: freemium
+
+  - name: Obsidian
+    description: Obsidian is the private and flexible note‑taking app that adapts to the way you think
+    category: notetaking
+    image: /images/apps/ios/Obsidian.png
+    platforms:
+      ios: https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442
+      android: https://play.google.com/store/apps/details?id=md.obsidian
+      windows: https://obsidian.md/download
+      macos: https://obsidian.md/download
+      linux: https://obsidian.md/download
+    pricing: freemium

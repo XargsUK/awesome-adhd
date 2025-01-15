@@ -1,0 +1,142 @@
+creators:
+  # YouTube Creators
+  - name: "How to ADHD"
+    description: "Jessica's channel provides a friendly, positive environment full of tips, tricks, and information about living with ADHD"
+    contentFocus: "Strategies for living with ADHD, using methods like Pomodoro for time management, coping with change, and the concept of a body double"
+    platform: "youtube"
+    image: "/images/youtube/howtoadhd.png"
+    links:
+      youtube: "https://www.youtube.com/channel/UC-nPM1_kSZf91ZGkcgy_95Q"
+      tiktok: "https://www.tiktok.com/@howtoadhd"
+
+  - name: "Rick Wants To Know"
+    description: "Rick Wants To Know is dedicated to providing accurate information to those struggling with ADHD or working with a loved one who suffers from it"
+    contentFocus: "Answers to common questions about ADHD, how ADHD affects women, and aims to dispel fear, shame, and stigma that often accompanies ADHD"
+    platform: "youtube"
+    image: "/images/youtube/rickhasadhd.png"
+    links:
+      youtube: "https://www.youtube.com/user/TotallyADD"
+
+  - name: "Dr. LeGrand"
+    description: "Dr. LeGrand, an ADHD expert who has ADHD himself, provides strategies for optimal mind performance, based on his experiences and learnings while going through medical school"
+    contentFocus: "Brain-focused videos, tips on foods that boost dopamine, and the effects of caffeine on the brain"
+    platform: "youtube"
+    image: "/images/youtube/drlegrand.png"
+    links:
+      youtube: "https://www.youtube.com/@doctorlegrand"
+      tiktok: "https://www.tiktok.com/@doctorlegrand"
+
+  - name: "Dr. Tracey Marks"
+    description: "Dr. Marks, with over 20 years of experience in psychiatry, addresses all things mental health and her ADHD playlist is full of educational information and advice on treating common symptoms of ADHD"
+    contentFocus: "Educational information on ADHD and advice on treating common symptoms, with a focus on executive function and its effect on those with ADHD"
+    platform: "youtube"
+    image: "/images/youtube/drtraceymarks.png"
+    links:
+      youtube: "https://www.youtube.com/@DrTraceyMarks"
+      tiktok: "https://www.tiktok.com/@drtraceymarks"
+
+  - name: "Stacey Machelle"
+    description: "Stacey Machelle uses her channel to educate and empower other black women after her own journey of getting diagnosed with ADHD and learning how to manage her symptoms"
+    contentFocus: "Personal experience of managing ADHD symptoms, self-acceptance, and empowerment, particularly targeted towards black women"
+    platform: "youtube"
+    image: "/images/youtube/adhdisthenewblack.png"
+    links:
+      youtube: "https://www.youtube.com/@Adhdisthenewblack"
+
+  - name: "ADHD reWired"
+    description: "Hosted by Eric Tivers, a licensed clinical social worker and coach specializing in ADHD. The channel is a combo of podcast and YouTube channel"
+    contentFocus: "Understand how the ADHD brain works, accepting who you are, and managing ADHD symptoms or finding ways that work with individual strengths"
+    platform: "youtube"
+    image: "/images/youtube/adhdrewired.png"
+    links:
+      youtube: "https://www.youtube.com/channel/UCL56VPTRLlbu6iBayYwhLKQ"
+      apple: "https://podcasts.apple.com/us/podcast/adhd-rewired/id849400337"
+      spotify: "https://open.spotify.com/show/1NYBs6dbNcVDWNpcuT6ldv"
+
+  - name: "ADHD Mastery"
+    description: "Stuart started this vlog to document his experience dealing with Inattentive ADHD. It's now grown into a channel about self-awareness, tips, and coping strategies"
+    contentFocus: "Educational videos on self-awareness, tips, and coping strategies for ADHD, like a step-by-step guide on how to keep commitments"
+    platform: "youtube"
+    image: "/images/youtube/adhdmastery.png"
+    links:
+      youtube: "https://www.youtube.com/@ADHDMastery"
+
+  - name: "Russell Barkley, PhD"
+    description: "This channel is dedicated to disseminating the scientific knowledge about ADHD. It is based on Dr. Barkley's 45 years of clinical practice, research, and teaching and his many books and scientific papers"
+    contentFocus: "Disseminating scientific knowledge about ADHD, expert delivered"
+    platform: "youtube"
+    image: "/images/youtube/russellbarkley.png"
+    links:
+      youtube: "https://www.youtube.com/@russellbarkleyphd2023"
+
+  # TikTok Creators
+  - name: "KC Davis"
+    description: "Therapist with ADHD. TEDx Speaker, Author of How to Keep House While Drowning gives tips and tricks around adulting"
+    contentFocus: "Content about self-care, organisation and household tasks. Explicitly neurodiversity-friendly"
+    platform: "tiktok"
+    image: "/images/tiktok/kcdavis.jpeg"
+    links:
+      tiktok: "https://www.tiktok.com/@domesticblisters"
+
+  # Podcasts
+  - name: "ADHD Experts"
+    description: "High profile ADHD experts help tackle family life, education, and work life, offering advice on how to manage symptoms. The format is more interactive, with questions coming from adults with ADHD and parents whose children have it"
+    contentFocus: "ADHD management strategies and advice"
+    platform: "podcast"
+    image: "/images/podcasts/adhdexpertspodcast.webp"
+    links:
+      apple: "https://podcasts.apple.com/us/podcast/adhd-experts-podcast/id668174671"
+      spotify: "https://open.spotify.com/show/75pbRLsX9ocLVFPSJZ66qM"
+
+  - name: "Taking Control: The ADHD Podcast"
+    description: "Certified ADHD coach, Nikki Kinzer, helps people develop positive strategies to manage time, get organized, de-stress, and make themselves more productive"
+    contentFocus: "Time management, organization, de-stressing, and productivity tips for those with ADHD"
+    platform: "podcast"
+    image: "/images/podcasts/takingcontrol.webp"
+    links:
+      apple: "https://podcasts.apple.com/gb/podcast/transitions/id368426151?i=1000489162412"
+      spotify: "https://open.spotify.com/show/1u5K8OxijCqoHbYLzlbsY0"
+
+  - name: "More Attention, Less Deficit"
+    description: "Psychologist Ari Tuckman focuses on diagnosing and treating children, teens, and adults who have ADHD. Each podcast episode tackles a different topic, providing actionable steps to help make positive changes"
+    contentFocus: "Diagnosing and treating ADHD, providing actionable steps for positive changes"
+    platform: "podcast"
+    image: "/images/podcasts/moreattentionlessdeficit.webp"
+    links:
+      apple: "https://podcasts.apple.com/gb/podcast/more-attention-less-deficit/id312831485"
+
+  - name: "Beautifully Complex"
+    description: "Penny Williams, a mom who learned all about ADHD when her son was diagnosed. She works with parents to help them understand their children with ADHD"
+    contentFocus: "Positive parenting, homework strategies, calming activities"
+    platform: "podcast"
+    image: "/images/podcasts/beautifullycomplex.webp"
+    links:
+      apple: "https://podcasts.apple.com/us/podcast/beautifully-complex/id1212571693"
+      spotify: "https://open.spotify.com/show/5CZPRKNCx2c0APgDIdrSxN"
+
+  - name: "Children and Adults with ADHD (CHADD)"
+    description: "CHADD is the nation's leading nonprofit organization serving people affected by ADHD"
+    contentFocus: "ADHD 365 podcast brings listeners into conversations about living with ADHD from every imaginable angle. The ADHD 365 podcast provides expert advice, tips, and strategies for families, adults, educators, and professionals"
+    platform: "podcast"
+    image: "/images/podcasts/chadd.webp"
+    links:
+      apple: "https://podcasts.apple.com/us/podcast/children-and-adults-with-adhd-chadd/id1515547563"
+      spotify: "https://open.spotify.com/show/6QiXGYxZ254jeFso1cMABP"
+
+  - name: "I Have ADHD Podcast"
+    description: "The I Have ADHD Podcast is a clear, concise, and FUN podcast for adults with ADHD"
+    contentFocus: "Host Kristen Carder is an ADHD expert who has been supporting ADHDers for over a decade. This podcast is a mix of solo shows + interviews with the authors of all the dusty ADHD books sitting on your shelf"
+    platform: "podcast"
+    image: "/images/podcasts/ihaveadhdpodcast.webp"
+    links:
+      apple: "https://podcasts.apple.com/us/podcast/i-have-adhd-podcast/id1446874607"
+      spotify: "https://open.spotify.com/show/6t1VWB5kU1QgCPCLypBuMt"
+
+  - name: "The ADHD Adults Podcast"
+    description: "The ADHD Adults Podcast (in)expertly covers issues around ADHD in adults, sharing evidence-based information and personal experiences"
+    contentFocus: "Comedic conversations discussing new research and relatable ADHD Adult experiences"
+    platform: "podcast"
+    image: "/images/podcasts/adhdadultspodcast.webp"
+    links:
+      apple: "https://podcasts.apple.com/gb/podcast/the-adhd-adults-podcast/id1591127163"
+      spotify: "https://open.spotify.com/show/2oYZwGakl7shJFG0lJ8JMt" 
