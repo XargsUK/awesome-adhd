@@ -26,15 +26,6 @@ creators:
       youtube: "https://www.youtube.com/@doctorlegrand"
       tiktok: "https://www.tiktok.com/@doctorlegrand"
 
-  - name: "Dr. Tracey Marks"
-    description: "Dr. Marks, with over 20 years of experience in psychiatry, addresses all things mental health and her ADHD playlist is full of educational information and advice on treating common symptoms of ADHD"
-    contentFocus: "Educational information on ADHD and advice on treating common symptoms, with a focus on executive function and its effect on those with ADHD"
-    platform: "youtube"
-    image: "/images/youtube/drtraceymarks.png"
-    links:
-      youtube: "https://www.youtube.com/@DrTraceyMarks"
-      tiktok: "https://www.tiktok.com/@drtraceymarks"
-
   - name: "Stacey Machelle"
     description: "Stacey Machelle uses her channel to educate and empower other black women after her own journey of getting diagnosed with ADHD and learning how to manage her symptoms"
     contentFocus: "Personal experience of managing ADHD symptoms, self-acceptance, and empowerment, particularly targeted towards black women"
@@ -139,4 +130,4 @@ creators:
     image: "/images/podcasts/adhdadultspodcast.webp"
     links:
       apple: "https://podcasts.apple.com/gb/podcast/the-adhd-adults-podcast/id1591127163"
-      spotify: "https://open.spotify.com/show/2oYZwGakl7shJFG0lJ8JMt" 
+      spotify: "https://open.spotify.com/show/2oYZwGakl7shJFG0lJ8JMt"

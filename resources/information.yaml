@@ -14,13 +14,6 @@ resources:
     mainFocus: "Adult ADHD awareness, resources, and support groups."
     audience: ["adult"]
 
-  - name: "ADDitude Magazine"
-    description: "A comprehensive resource for information on ADHD and related conditions."
-    type: "website"
-    url: "http://www.additudemag.com/"
-    mainFocus: "Symptoms, diagnosis, treatment, and advice for living with ADHD."
-    audience: ["adult", "child"]
-
   - name: "ADHD UK"
     description: "UK ADHD charity. Provides information, support, research, advocacy and awareness."
     type: "website"
@@ -56,6 +49,16 @@ resources:
     author: "Edward Hallowell, MD and John J. Ratey, MD"
     mainFocus: "Modern approaches to ADHD management"
     audience: ["adult", "child"]
+
+  # Academic Resources
+  - name: "ADHD Primer 2024"
+    description: "Comprehensive review providing a coherent interpretation of current ADHD knowledge, building upon the World Federation of ADHD's International Consensus Statement"
+    type: "academic"
+    url: "https://pure.rug.nl/ws/portalfiles/portal/1124067910/s41572-024-00495-0.pdf"
+    author: "Steven V. Faraone et al"
+    mainFocus: "Current state of ADHD knowledge and interpretation"
+    audience: ["professional", "adult"]
+    year: 2024
 
   # Other Resources
   - name: "Dana K. White"

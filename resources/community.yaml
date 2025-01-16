@@ -21,11 +21,6 @@ community:
     platform: "reddit"
     url: "https://www.reddit.com/r/adhdmeme"
 
-  - name: "r/ADHDers"
-    description: "ADHDers unite. This subreddit was created to provide a positive, safe, and inclusive environment for those with ADHD to converse"
-    platform: "reddit"
-    url: "https://www.reddit.com/r/ADHDers"
-
   - name: "r/GiftedADHD"
     description: "Private community. For discussing ADHD and giftedness"
     platform: "reddit"
