@@ -274,7 +274,6 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 | Name            | Main Focus                                                 | URL                                               |
 | :-------------: | :--------------------------------------------------------: | :-----------------------------------------------: |
 | The ADHD Adults | UK focused. ADHD Adults UK podcast discord server          | [Invite](https://discord.gg/rR6FYK8SgN)           |
-| ADHD Dopamine   | A safe, warm, active, and welcoming ADHD support community | [Invite](https://discord.gg/invite/adhd-dopamine) |
 | ADHDadultUK     | UK focused. Adults with ADHD.                              | [Invite](https://discord.gg/458smEgfUS)           |
 
 ### Other Resources

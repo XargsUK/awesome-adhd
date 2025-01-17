@@ -77,11 +77,6 @@ community:
     platform: "discord"
     url: "https://discord.gg/rR6FYK8SgN"
 
-  - name: "ADHD Dopamine"
-    description: "A safe, warm, active, and welcoming ADHD support community"
-    platform: "discord"
-    url: "https://discord.gg/invite/adhd-dopamine"
-
   - name: "ADHDadultUK"
     description: "UK focused. Adults with ADHD."
     platform: "discord"
