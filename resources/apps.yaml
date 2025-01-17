@@ -17,7 +17,7 @@ apps:
     category: time-management
     image: /images/apps/ios/Flipd.png
     platforms:
-      ios: https://apps.apple.com/gb/app/flipd-focus-study-timer/id1071708905
+      ios: https://apps.apple.com/us/app/flipd-focus-study-timer/id1071708905
       android: https://play.google.com/store/apps/details?id=com.flipd.app
     pricing: freemium
 
@@ -33,7 +33,7 @@ apps:
     category: time-management
     image: /images/apps/ios/Focus_Keeper.png
     platforms:
-      ios: https://apps.apple.com/gb/app/focus-keeper-time-management/id867374917
+      ios: https://apps.apple.com/us/app/focus-keeper-time-management/id867374917
       android: https://play.google.com/store/apps/details?id=co.pixo.apps.focuskeeper
       website: https://focuskeeper.co/
     pricing: freemium
@@ -173,7 +173,7 @@ apps:
     category: visual-calendars
     image: /images/apps/ios/PiCal.png
     platforms:
-      ios: https://apps.apple.com/gb/app/pical-visual-adhd-day-planner/id1560704848
+      ios: https://apps.apple.com/us/app/pical-visual-adhd-day-planner/id1560704848
       watchos: true
     pricing: freemium
 
@@ -193,7 +193,7 @@ apps:
     category: visual-calendars
     image: /images/apps/ios/Calendar_Timeline.png
     platforms:
-      ios: https://apps.apple.com/gb/app/calendar-timeline/id1502851960
+      ios: https://apps.apple.com/us/app/calendar-timeline/id1502851960
       watchos: true
     pricing: paid
 
@@ -203,7 +203,7 @@ apps:
     category: sounds-for-focus
     image: /images/apps/ios/ADHD_White_Noise___Brown__Pink.png
     platforms:
-      ios: https://apps.apple.com/gb/app/adhd-white-noise-brown-pink/id1632615763
+      ios: https://apps.apple.com/us/app/adhd-white-noise-brown-pink/id1632615763
       android: https://play.google.com/store/apps/details?id=io.mindist.noise
     pricing: free
 
@@ -422,13 +422,25 @@ apps:
       website: https://asana.com/
     pricing: freemium
 
+  - name: Super Productivity
+    description: Productivity tool using time boxing and intuitive task management.
+    category: task-management
+    image: /images/apps/android/Super_Productivity.png
+    platforms:
+      android: https://play.google.com/store/apps/details?id=com.superproductivity.superproductivity
+      windows: https://apps.microsoft.com/detail/9nhfvg8361tw
+      macos: https://apps.apple.com/us/app/super-productivity/id1482572463
+      linux: https://github.com/johannesjo/super-productivity/releases/latest/download/superProductivity-x86_64.AppImage
+      website: https://super-productivity.com/
+    pricing: free
+
   # Task Management - Chores
   - name: Tody
     description: Smarter Cleaning
     category: task-management
     image: /images/apps/ios/Tody.png
     platforms:
-      ios: https://apps.apple.com/gb/app/tody/id595339588
+      ios: https://apps.apple.com/us/app/tody/id595339588
       android: https://play.google.com/store/apps/details?id=com.looploop.tody
     pricing: freemium
 
@@ -457,7 +469,7 @@ apps:
     category: health
     image: /images/apps/ios/Sleep_Cycle.png
     platforms:
-      ios: https://apps.apple.com/gb/app/sleep-cycle-sleep-tracker/id320606217
+      ios: https://apps.apple.com/us/app/sleep-cycle-sleep-tracker/id320606217
       watchos: true
       android: https://play.google.com/store/apps/details?id=com.northcube.sleepcycle
     pricing: freemium
@@ -515,7 +527,7 @@ apps:
     category: notetaking
     image: /images/apps/ios/Glean.png
     platforms:
-      ios: https://apps.apple.com/gb/app/glean-notes/id1498045022
+      ios: https://apps.apple.com/us/app/glean-notes/id1498045022
       android: https://play.google.com/store/apps/details?id=co.glean.app
       windows: https://help.glean.com/en/articles/5017232-get-the-desktop-app
       macos: https://help.glean.com/en/articles/5017232-get-the-desktop-app

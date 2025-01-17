@@ -6,6 +6,8 @@ resources:
     url: "http://www.chadd.org/"
     mainFocus: "Resources for children and adults with ADHD, including a directory of professionals."
     audience: ["adult", "child"]
+    image: "chadd.jpg"
+    imageBgColor: "#ffffff"
 
   - name: "ADDA (Attention Deficit Disorder Association)"
     description: "Provides information and training resources for adults with ADHD, promotes ADHD awareness, and offers virtual support groups."
@@ -13,13 +15,62 @@ resources:
     url: "http://www.add.org/"
     mainFocus: "Adult ADHD awareness, resources, and support groups."
     audience: ["adult"]
+    image: "adda.jpg"
+    imageBgColor: "#ffffff"
+
+  - name: "National Institute of Mental Health (NIMH)"
+    description: "Provides comprehensive information about ADHD, including symptoms, diagnosis, treatments, and related conditions."
+    type: "website"
+    url: "https://www.nimh.nih.gov/"
+    mainFocus: "Education about ADHD and other mental health disorders."
+    audience: ["adult", "child"]
+    image: "nimh.png"
+    imageBgColor: "#ffffff"
+
+  - name: "ADHD & You"
+    description: "Provides resources for individuals with ADHD and their families, educators, and healthcare providers."
+    type: "website"
+    url: "https://www.adhdandyou.co.uk/"
+    mainFocus: "Education, management strategies, and tools for living with ADHD."
+    audience: ["adult", "child"]
+    image: "adhdandyou.png"
+    imageBgColor: "#ffffff"
+
+  - name: "AskJan"
+    description: "Information on ADHD, and a great list of real-life examples of accommodations in the workplace."
+    type: "website"
+    url: "https://askjan.org/disabilities/Attention-Deficit-Hyperactivity-Disorder-AD-HD.cfm"
+    mainFocus: "ADHD in the workplace."
+    audience: ["adult"]
+    image: "askjan.png"
+    imageBgColor: "#0a2c5d"
 
   - name: "ADHD UK"
     description: "UK ADHD charity. Provides information, support, research, advocacy and awareness."
     type: "website"
     url: "https://adhduk.co.uk/"
-    mainFocus: "ADHD in the UK"
+    mainFocus: "ADHD in the UK."
     audience: ["adult", "child"]
+    image: "adhduk.png"
+    imageBgColor: "#5e1e75"
+
+  - name: "ADHDadultUK"
+    description: "The UK's Leading Adult ADHD Charity."
+    type: "website"
+    url: "https://www.adhdadult.uk/"
+    mainFocus: "Support for adults with ADHD in the UK."
+    audience: ["adult"]
+    image: "adhdadultuk.png"
+    imageBgColor: "#ffffff"
+
+  - name: "Focus: The Online Adult ADHD Magazine"
+    description: "Evidence-based articles on ADHD."
+    type: "website"
+    url: "https://focusmag.uk/"
+    mainFocus: "Evidence-based articles about ADHD."
+    audience: ["adult"]
+    image: "focusmag.png"
+    imageBgColor: "#ffffff"
 
   # Books
   - name: "How to ADHD"
@@ -28,6 +79,7 @@ resources:
     author: "Jessica McCabe"
     mainFocus: "Practical advice and tools for ADHD"
     audience: ["adult", "child"]
+    isbn: "9780593578957"
 
   - name: "Driven to Distraction"
     description: "Recognizing and coping with ADHD"
@@ -35,13 +87,15 @@ resources:
     author: "Edward Hallowell, MD and John J. Ratey, MD"
     mainFocus: "Understanding and managing ADHD"
     audience: ["adult", "child"]
+    isbn: "9780307743152"
 
   - name: "A Radical Guide for Women with ADHD"
     description: "Unique challenges and experiences women face with ADHD"
     type: "book"
     author: "Sari Solden"
-    mainFocus: "Women's experiences with ADHD"
+    mainFocus: "Addressing ADHD from a female perspective."
     audience: ["adult"]
+    isbn: "9781684032617"
 
   - name: "ADHD 2.0"
     description: "Harnessing strengths and updated strategies for managing ADHD"
@@ -49,6 +103,119 @@ resources:
     author: "Edward Hallowell, MD and John J. Ratey, MD"
     mainFocus: "Modern approaches to ADHD management"
     audience: ["adult", "child"]
+    isbn: "9780399178740"
+
+  - name: "Thriving with Adult ADHD"
+    description: "Cognitive Behavioral Therapy for managing ADHD"
+    type: "book"
+    author: "Phil Boissiere"
+    mainFocus: "Using CBT techniques for ADHD."
+    audience: ["adult"]
+    isbn: "9781641522724"
+
+  - name: "Order from Chaos"
+    description: "Organizational strategies for people with ADHD"
+    type: "book"
+    author: "Lynda Hudzina"
+    mainFocus: "Effective organization for ADHD individuals."
+    audience: ["adult"]
+    isbn: "9780578578873"
+
+  - name: "What Your ADHD Child Wishes You Knew"
+    description: "Understanding and empowering your child with ADHD"
+    type: "book"
+    author: "Dr. Sharon Saline"
+    mainFocus: "Empowering parents to support their ADHD children."
+    audience: ["child"]
+    isbn: "9780143132394"
+
+  - name: "The ADHD Effect on Marriage"
+    description: "How ADHD can impact a relationship and strategies to cope"
+    type: "book"
+    author: "Melissa Orlov"
+    mainFocus: "Navigating ADHD in relationships."
+    audience: ["adult"]
+    isbn: "9781886941854"
+
+  - name: "Organizing Solutions for People with ADHD"
+    description: "Practical organization strategies for people with ADHD"
+    type: "book"
+    author: "Susan Pinsky"
+    mainFocus: "Practical tips for better organization."
+    audience: ["adult"]
+    isbn: "9780760381625"
+
+  - name: "Smart but Scattered Teens"
+    description: "Strategies to help teens with ADHD enhance executive skills"
+    type: "book"
+    author: "Richard Guare, Peg Dawson, Colin Guare"
+    mainFocus: "Improving executive skills in teens."
+    audience: ["child"]
+    isbn: "9781609182298"
+
+  - name: "Thriving with ADHD Workbook for Kids"
+    description: "Skill-building activities for kids with ADHD"
+    type: "book"
+    author: "Kelli Miller LCSW MSW"
+    mainFocus: "Activities to develop skills in children."
+    audience: ["child"]
+    isbn: "9781641520416"
+
+  - name: "The Smart but Scattered Guide to Success"
+    description: "How to use your brain's executive skills to keep up, stay calm, and get organized at work and at home"
+    type: "book"
+    author: "Peg Dawson, Richard Guare"
+    mainFocus: "Utilizing executive skills for success."
+    audience: ["adult"]
+    isbn: "9781462516964"
+
+  - name: "You Mean I'm Not Lazy, Stupid or Crazy?!"
+    description: "The first book about adult ADHD, and the first one written by adults with ADHD"
+    type: "book"
+    author: "Kate Kelly"
+    mainFocus: "Insights from adults living with ADHD."
+    audience: ["adult"]
+    isbn: "9780743264488"
+
+  - name: "ADHD Workbook for Teens"
+    description: "Workbook for teens diagnosed with ADHD."
+    type: "book"
+    author: "Lara Honos-Webb"
+    mainFocus: "Tools for teens to manage ADHD."
+    audience: ["child"]
+    isbn: "9781572248663"
+
+  - name: "Taking Charge of Adult ADHD"
+    description: "Proven Strategies to Succeed at Work, at Home, and in Relationships"
+    type: "book"
+    author: "Russell Barkley, PHD"
+    mainFocus: "Strategies for adult ADHD success."
+    audience: ["adult"]
+    isbn: "9781462546855"
+
+  - name: "The Disorganized Mind"
+    description: "Addresses the common issues such as inattention, time-mismanagement, procrastination, impulsivity, distractibility, and difficulty with transitions."
+    type: "book"
+    author: "Nancy Ratey, Ed.M., M.C.C., S.C.A.C"
+    mainFocus: "Understanding and managing disorganization."
+    audience: ["adult"]
+    isbn: "9780312355340"
+
+  - name: "Your Brain's Not Broken"
+    description: "Explains how ADHD affects every aspect of your life."
+    type: "book"
+    author: "Tamara Rosier, PhD"
+    mainFocus: "Comprehensive view of ADHD's impact."
+    audience: ["adult"]
+    isbn: "9781493431984"
+
+  - name: "Fast Minds"
+    description: "How to Thrive If You Have ADHD (or Think You Might)"
+    type: "book"
+    author: "Craig Surman, M.D, Tim Bilkey, M.D and Karen Weintraubis"
+    mainFocus: "Strategies for thriving with ADHD."
+    audience: ["adult"]
+    isbn: "9780425274064"
 
   # Academic Resources
   - name: "ADHD Primer 2024"
