@@ -193,8 +193,7 @@ apps:
     category: visual-calendars
     image: /images/apps/ios/Calendar_Timeline.png
     platforms:
-      ios: https://apps.apple.com/us/app/calendar-timeline/id1502851960
-      watchos: true
+      watchos: https://apps.apple.com/us/app/calendar-timeline/id1502851960
     pricing: paid
 
   # Sounds for Focus

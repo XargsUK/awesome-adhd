@@ -51,11 +51,6 @@ community:
     platform: "reddit"
     url: "https://www.reddit.com/r/ADHD_Programmers"
 
-  - name: "r/Asdhd"
-    description: "For those with autism and ADHD"
-    platform: "reddit"
-    url: "https://www.reddit.com/r/Asdhd"
-
   - name: "r/ParentingADHD"
     description: "A relatively small sub for parents of children with ADHD"
     platform: "reddit"
