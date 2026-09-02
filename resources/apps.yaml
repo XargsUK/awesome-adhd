@@ -196,6 +196,15 @@ apps:
       watchos: https://apps.apple.com/us/app/calendar-timeline/id1502851960
     pricing: paid
 
+  - name: Owaves
+    description: Visual 24-hour day planner built around your body clock
+    category: visual-calendars
+    image: /images/apps/ios/Owaves.png
+    platforms:
+      ios: https://apps.apple.com/us/app/owaves-my-bodyclock/id869648628
+      watchos: true
+    pricing: freemium
+
   # Sounds for Focus
   - name: ADHD White Noise + Brown, Pink
     description: ADHD noise for work and sleep
@@ -304,6 +313,14 @@ apps:
       website: https://noises.online/
     pricing: free
 
+  - name: "Spirit City: Lofi Sessions"
+    description: Gamified focus tool with a lofi soundtrack, timers, to-dos and habit tracking
+    category: sounds-for-focus
+    platforms:
+      windows: https://store.steampowered.com/app/2113850/Spirit_City_Lofi_Sessions/
+      macos: https://store.steampowered.com/app/2113850/Spirit_City_Lofi_Sessions/
+    pricing: paid
+
   # Task Management - To-do Lists
   - name: Due
     description: Never Forget Anything Again
@@ -374,6 +391,19 @@ apps:
       windows: https://www.mylifeorganized.net/todo-list-windows.shtml
     pricing: paid
 
+  - name: Mindwtr
+    description: Free, open-source GTD task manager that works offline with no account
+    category: task-management
+    image: /images/apps/ios/Mindwtr.png
+    platforms:
+      ios: https://apps.apple.com/app/mindwtr/id6758597144
+      android: https://play.google.com/store/apps/details?id=tech.dongdongbh.mindwtr
+      windows: https://github.com/dongdongbh/Mindwtr/releases/latest
+      macos: https://github.com/dongdongbh/Mindwtr/releases/latest
+      linux: https://github.com/dongdongbh/Mindwtr/releases/latest
+      website: https://mindwtr.app/
+    pricing: free
+
   # Task Management - Projects
   - name: Trello
     description: Projects? Workflows? organize anything!
@@ -432,6 +462,14 @@ apps:
       linux: https://github.com/johannesjo/super-productivity/releases/latest/download/superProductivity-x86_64.AppImage
       website: https://super-productivity.com/
     pricing: free
+
+  - name: Leantime
+    description: Open-source project management built for ADHD and neurodivergent brains
+    category: task-management
+    image: /images/apps/web/Leantime.png
+    platforms:
+      website: https://leantime.io/
+    pricing: freemium
 
   # Task Management - Chores
   - name: Tody
@@ -567,3 +605,27 @@ apps:
       macos: https://obsidian.md/download
       linux: https://obsidian.md/download
     pricing: freemium
+
+  - name: Trilium Notes
+    description: Open-source hierarchical note-taking with optional self-hosted sync
+    category: notetaking
+    image: /images/apps/linux/Trilium.png
+    platforms:
+      windows: https://github.com/TriliumNext/Trilium/releases/latest
+      macos: https://github.com/TriliumNext/Trilium/releases/latest
+      linux: https://github.com/TriliumNext/Trilium/releases/latest
+      website: https://triliumnotes.org/
+    pricing: free
+
+  - name: Joplin
+    description: Open-source notes and to-dos with encryption and free sync options
+    category: notetaking
+    image: /images/apps/ios/Joplin.png
+    platforms:
+      ios: https://apps.apple.com/us/app/joplin/id1315599797
+      android: https://play.google.com/store/apps/details?id=net.cozic.joplin
+      windows: https://joplinapp.org/download/
+      macos: https://joplinapp.org/download/
+      linux: https://joplinapp.org/download/
+      website: https://joplinapp.org/
+    pricing: free

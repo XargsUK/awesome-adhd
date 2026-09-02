@@ -72,6 +72,15 @@ resources:
     image: "focusmag.png"
     imageBgColor: "#ffffff"
 
+  - name: "CADDAC (Centre for ADHD Awareness, Canada)"
+    description: "Canada's national ADHD charity, providing resources and support to advance ADHD awareness, education and advocacy."
+    type: "website"
+    url: "https://caddac.ca/"
+    mainFocus: "ADHD awareness, education and advocacy in Canada."
+    audience: ["adult", "child"]
+    image: "caddac.png"
+    imageBgColor: "#ffffff"
+
   # Books
   - name: "How to ADHD"
     description: "ADHD-friendly book providing practical advice and tools for dealing with ADHD"
@@ -247,4 +256,11 @@ resources:
     type: "other"
     url: "https://rehabsuk.com/blog/adhd-triples-risk-of-substance-abuse-but-it-doesn-t-have-to/"
     category: "Health"
+    audience: ["adult"]
+
+  - name: "NHS Right to Choose Changes"
+    description: "ADHD UK's guide to proposed changes to Right to Choose for ADHD assessments in England, and how to have your say"
+    type: "other"
+    url: "https://adhduk.co.uk/nhs-right-to-choose-changes/"
+    category: "Advocacy"
     audience: ["adult"]
