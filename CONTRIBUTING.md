@@ -29,7 +29,9 @@ You can suggest your own work, and most people who open an issue here are doing 
 
 Search the open and closed issues for the name. Send one suggestion per resource, through either [GitHub](https://github.com/XargsUK/awesome-adhd/issues/new?template=resource-suggestion.yml) or the form on [awesomeadhd.com](https://www.awesomeadhd.com/suggest), not both.
 
-Include the first release date, the links, the full pricing and whether you're connected to the project. I close issues that leave those out.
+If you made it, or someone asked you to suggest it, include the first release date, the links, the full pricing and your connection to it. I close issues that leave those out.
+
+If you just use it, the form on awesomeadhd.com only asks for a name and a link.
 
 ## What happens next
 
