@@ -27,7 +27,7 @@ You can suggest your own work, and most people who open an issue here are doing 
 
 ## Before you open an issue
 
-Search the open and closed issues for the name. Send one suggestion per resource, through either [GitHub](https://github.com/XargsUK/awesome-adhd/issues/new?assignees=XargsUK&labels=suggestion&projects=&template=%F0%9F%93%9A-new-resource-suggestion.md&title=%5BNEW+RESOURCE%5D) or the form on [awesomeadhd.com](https://www.awesomeadhd.com), not both.
+Search the open and closed issues for the name. Send one suggestion per resource, through either [GitHub](https://github.com/XargsUK/awesome-adhd/issues/new?assignees=XargsUK&labels=suggestion&projects=&template=%F0%9F%93%9A-new-resource-suggestion.md&title=%5BNEW+RESOURCE%5D) or the form on [awesomeadhd.com](https://www.awesomeadhd.com/suggest), not both.
 
 Include the first release date, the links, the full pricing and whether you're connected to the project. I close issues that leave those out.
 

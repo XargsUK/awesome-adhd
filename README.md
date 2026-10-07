@@ -15,7 +15,7 @@
 
 <p>There's millions of apps which aims to tackle issues which are shared between NT and ND brains. This aims to provide a list of resources and tools which are ADHD friendly!</p>
 
-<p>If you have something to add to the list, awesome! Fill out this <a href="https://forms.gle/AreAhowJqbZ5do8Y8">Google Form</a> and if it fits, it'll get added 🎉</p>
+<p>If you have something to add to the list, awesome! Suggest it on <a href="https://www.awesomeadhd.com/suggest">the website</a> or <a href="#contributing">open an issue</a>, and if it fits, it'll get added 🎉</p>
 
 </div>
 
@@ -294,7 +294,7 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 
 ## Contributing
 
-[Open a suggestion](https://github.com/XargsUK/awesome-adhd/issues/new?assignees=XargsUK&labels=suggestion&projects=&template=%F0%9F%93%9A-new-resource-suggestion.md&title=%5BNEW+RESOURCE%5D) to get a resource added to the list! Read the [criteria](CONTRIBUTING.md) before you do. Issues/suggestions are subject to the [Code of Conduct](code_of_conduct.md). You can also submit on [Google Forms](https://forms.gle/AreAhowJqbZ5do8Y8).
+[Open a suggestion](https://github.com/XargsUK/awesome-adhd/issues/new?assignees=XargsUK&labels=suggestion&projects=&template=%F0%9F%93%9A-new-resource-suggestion.md&title=%5BNEW+RESOURCE%5D) to get a resource added to the list! Read the [criteria](CONTRIBUTING.md) before you do. Issues/suggestions are subject to the [Code of Conduct](code_of_conduct.md). You can also use the [form on the website](https://www.awesomeadhd.com/suggest).
 
 ### Contributors
 
