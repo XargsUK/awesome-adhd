@@ -1,0 +1,32 @@
+name: Triage suggestions
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+    inputs:
+      issues:
+        description: Open issue numbers to check, separated by commas. Leave blank for every open issue.
+        required: false
+      dry_run:
+        description: Report what would happen without changing anything
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          sparse-checkout: .github/scripts
+          persist-credentials: false
+      - uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
+        with:
+          script: |
+            const triage = require('./.github/scripts/triage-suggestion.js')
+            await triage({ github, context, core })

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Suggestion criteria
+    url: https://github.com/XargsUK/awesome-adhd/blob/main/CONTRIBUTING.md
+    about: What gets listed and what doesn't. Read this before suggesting a resource.

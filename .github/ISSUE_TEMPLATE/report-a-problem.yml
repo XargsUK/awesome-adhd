@@ -1,0 +1,28 @@
+name: Report a problem
+description: A broken link, an abandoned app, changed pricing, or a bug on the site
+labels: ["bug"]
+assignees: ["XargsUK"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Which entry or page
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong
+      options:
+        - The link is broken
+        - It's abandoned or no longer works
+        - The pricing has changed
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+    validations:
+      required: true

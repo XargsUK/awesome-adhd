@@ -61,7 +61,7 @@
 
 ### Suggest a Resource!
 
-If you feel that there's a resource missing from this page, [Submit your suggestion!](https://github.com/XargsUK/awesome-adhd/issues/new?assignees=XargsUK&labels=suggestion&projects=&template=%F0%9F%93%9A-new-resource-suggestion.md&title=%5BNEW+RESOURCE%5D) Check the [criteria](CONTRIBUTING.md) first.
+If you feel that there's a resource missing from this page, [Submit your suggestion!](https://github.com/XargsUK/awesome-adhd/issues/new?template=resource-suggestion.yml) Check the [criteria](CONTRIBUTING.md) first.
 
 ## Apps
 
@@ -294,7 +294,7 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 
 ## Contributing
 
-[Open a suggestion](https://github.com/XargsUK/awesome-adhd/issues/new?assignees=XargsUK&labels=suggestion&projects=&template=%F0%9F%93%9A-new-resource-suggestion.md&title=%5BNEW+RESOURCE%5D) to get a resource added to the list! Read the [criteria](CONTRIBUTING.md) before you do. Issues/suggestions are subject to the [Code of Conduct](code_of_conduct.md). You can also use the [form on the website](https://www.awesomeadhd.com/suggest).
+[Open a suggestion](https://github.com/XargsUK/awesome-adhd/issues/new?template=resource-suggestion.yml) to get a resource added to the list! Read the [criteria](CONTRIBUTING.md) before you do. Issues/suggestions are subject to the [Code of Conduct](code_of_conduct.md). You can also use the [form on the website](https://www.awesomeadhd.com/suggest).
 
 ### Contributors
 

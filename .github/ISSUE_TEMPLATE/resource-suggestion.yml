@@ -1,0 +1,83 @@
+name: Suggest a resource
+description: Suggest an app, tool, website, creator or community for the list
+title: "[Resource Suggestion] "
+labels: ["Suggestion"]
+assignees: ["XargsUK"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Read the [criteria](https://github.com/XargsUK/awesome-adhd/blob/main/CONTRIBUTING.md) before you fill this in. An automated check closes suggestions for anything public for less than six months.
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Resource type
+      options:
+        - App or tool
+        - Website or article
+        - Creator
+        - Community
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Links
+      description: One per line. Include the website, each store page and the source repository if there is one.
+    validations:
+      required: true
+  - type: input
+    id: released
+    attributes:
+      label: First public release date
+      description: The store release date, the first tagged release, or the day the site went live. Use YYYY-MM-DD.
+      placeholder: "2025-01-31"
+    validations:
+      required: true
+  - type: textarea
+    id: pricing
+    attributes:
+      label: Pricing
+      description: What's free and what costs money, with the prices and any trial terms.
+    validations:
+      required: true
+  - type: dropdown
+    id: connection
+    attributes:
+      label: Your connection to it
+      options:
+        - I made it or work on it
+        - Someone asked or paid me to suggest it
+        - None, I use it
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs on the list
+      description: How it helps with ADHD, and what it adds to the section it would sit in.
+    validations:
+      required: true
+  - type: textarea
+    id: usage
+    attributes:
+      label: Who else uses it
+      description: Store ratings, stars, or links to people recommending it who aren't connected to the project.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you submit
+      options:
+        - label: I've read the criteria
+          required: true
+        - label: I've searched open and closed issues for this resource
+          required: true
