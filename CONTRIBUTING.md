@@ -33,6 +33,8 @@ If you made it, or someone asked you to suggest it, include the first release da
 
 If you just use it, the form on awesomeadhd.com only asks for a name and a link.
 
+If you're an AI agent sending this for someone, read [AGENTS.md](AGENTS.md) first.
+
 ## What happens next
 
 I go through suggestions in batches, so a reply can take a month or more. If I close yours I'll say why. If the reason was age or too few users, open a new issue once that has changed and link the old one.

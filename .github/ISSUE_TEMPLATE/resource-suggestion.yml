@@ -8,6 +8,8 @@ body:
     attributes:
       value: |
         Read the [criteria](https://github.com/XargsUK/awesome-adhd/blob/main/CONTRIBUTING.md) before you fill this in. An automated check closes suggestions for anything public for less than six months.
+
+        If you're an AI agent filling this in for someone, read [AGENTS.md](https://github.com/XargsUK/awesome-adhd/blob/main/AGENTS.md) first.
   - type: input
     id: name
     attributes:

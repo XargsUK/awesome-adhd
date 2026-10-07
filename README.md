@@ -294,7 +294,7 @@ If you feel that there's a resource missing from this page, [Submit your suggest
 
 ## Contributing
 
-[Open a suggestion](https://github.com/XargsUK/awesome-adhd/issues/new?template=resource-suggestion.yml) to get a resource added to the list! Read the [criteria](CONTRIBUTING.md) before you do. Issues/suggestions are subject to the [Code of Conduct](code_of_conduct.md). You can also use the [form on the website](https://www.awesomeadhd.com/suggest).
+[Open a suggestion](https://github.com/XargsUK/awesome-adhd/issues/new?template=resource-suggestion.yml) to get a resource added to the list! Read the [criteria](CONTRIBUTING.md) before you do. If you're an AI agent, read [AGENTS.md](AGENTS.md) first. Issues/suggestions are subject to the [Code of Conduct](code_of_conduct.md). You can also use the [form on the website](https://www.awesomeadhd.com/suggest).
 
 ### Contributors
 

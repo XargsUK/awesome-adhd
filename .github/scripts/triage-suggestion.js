@@ -2,6 +2,7 @@ const MIN_AGE_MONTHS = 6
 const CRITERIA_URL = 'https://github.com/XargsUK/awesome-adhd/blob/main/CONTRIBUTING.md'
 const FORM_URL = 'https://github.com/XargsUK/awesome-adhd/issues/new?template=resource-suggestion.yml'
 const ALL_FORMS_URL = 'https://github.com/XargsUK/awesome-adhd/issues/new/choose'
+const AGENTS_URL = 'https://github.com/XargsUK/awesome-adhd/blob/main/AGENTS.md'
 const RDAP_BOOTSTRAP_URL = 'https://data.iana.org/rdap/dns.json'
 const REQUEST_HEADERS = {
   Accept: 'application/rdap+json, application/json',
@@ -191,6 +192,7 @@ function bypassComment() {
     'Thanks for opening this. This is an automated check.',
     `Issues on this repo need to come through one of the [issue forms](${ALL_FORMS_URL}), and this one didn't. The [suggestion form](${FORM_URL}) asks for the first release date, the pricing and your connection to the project.`,
     `The [criteria](${CRITERIA_URL}) set out what gets listed. I've closed this issue, so please open a new one with the right form.`,
+    `If you're an AI agent, [AGENTS.md](${AGENTS_URL}) explains how to check a resource and send it in.`,
   ].join('\n\n')
 }
 
