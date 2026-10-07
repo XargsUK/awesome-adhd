@@ -1,7 +1,7 @@
 name: Suggest a resource
 description: Suggest an app, tool, website, creator or community for the list
 title: "[Resource Suggestion] "
-labels: ["Suggestion"]
+labels: ["Suggestion", "via-github"]
 assignees: ["XargsUK"]
 body:
   - type: markdown

@@ -10,8 +10,9 @@ const REQUEST_HEADERS = {
 
 const REQUIRED_SECTIONS = ['Resource name', 'Links', 'First public release date', 'Pricing', 'Your connection to it']
 const REPORT_SECTION = 'which entry or page'
-const SITE_FORM_TITLE = /^(Quick|Detailed) Suggestion: /
+const SITE_FORM_TITLE = /^(?:(?:Quick|Detailed) )?Suggestion: /
 const MAINTAINER_ASSOCIATIONS = ['OWNER', 'MEMBER', 'COLLABORATOR']
+const SOURCE_LABELS = { site: 'via-website', form: 'via-github', api: 'via-api' }
 
 // A registration date for these says nothing about the resource hosted on them.
 const SHARED_HOSTS = [
@@ -210,9 +211,7 @@ function youngDomainComment(evidence) {
 }
 
 // Issues opened before the form existed are only checked for age and duplicates.
-async function decide({ github, issue, allIssues, enforceForm, now }) {
-  const sections = parseSections(issue.body)
-  const kind = classify(issue, sections)
+async function decide({ github, issue, sections, kind, allIssues, enforceForm, now }) {
   const unstructured = kind === 'bypass' || kind === 'old-template'
   if (kind === 'ignore' || (kind === 'bypass' && !enforceForm)) return undefined
   if (unstructured && enforceForm) {
@@ -247,6 +246,16 @@ async function decide({ github, issue, allIssues, enforceForm, now }) {
   }
 }
 
+// GitHub adds the form's own label a moment after the issue opens, and drops any label a stranger
+// sets through the API. A form-shaped issue without it by the time this runs was not sent from the form.
+async function sourceLabel(github, target, kind, backfill) {
+  if (kind === 'site') return SOURCE_LABELS.site
+  if (backfill) return undefined
+  if (kind !== 'form') return SOURCE_LABELS.api
+  const { data } = await github.rest.issues.get(target)
+  return data.labels.some((label) => label.name === SOURCE_LABELS.form) ? undefined : SOURCE_LABELS.api
+}
+
 async function alreadyTriaged(github, target) {
   const { data } = await github.rest.issues.listComments({ ...target, per_page: 100 })
   return data.some((comment) => comment.user?.login === 'github-actions[bot]')
@@ -279,8 +288,12 @@ module.exports = async ({ github, context, core, now = new Date() }) => {
       rows.push([`#${issue.number}`, issue.title, 'skipped, already triaged'])
       continue
     }
-    const decision = await decide({ github, issue, allIssues, enforceForm: !backfill, now })
+    const sections = parseSections(issue.body)
+    const kind = classify(issue, sections)
+    const decision = await decide({ github, issue, sections, kind, allIssues, enforceForm: !backfill, now })
     if (!decision) continue
+    const source = await sourceLabel(github, target, kind, backfill)
+    if (source) decision.labels.push(source)
     if (!dryRun) await apply(github, target, decision)
     if (decision.close) issue.state = 'closed'
     rows.push([`#${issue.number}`, issue.title, decision.summary])
