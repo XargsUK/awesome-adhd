@@ -13,6 +13,7 @@ const REQUIRED_SECTIONS = ['Resource name', 'Links', 'First public release date'
 const REPORT_SECTION = 'which entry or page'
 const SITE_FORM_TITLE = /^(?:(?:Quick|Detailed) )?Suggestion: /
 const MAINTAINER_ASSOCIATIONS = ['OWNER', 'MEMBER', 'COLLABORATOR']
+const SITE_APP_LOGIN = 'awesome-adhd-suggestions[bot]'
 const SOURCE_LABELS = { site: 'via-website', form: 'via-github', api: 'via-api' }
 
 // A registration date for these says nothing about the resource hosted on them.
@@ -78,7 +79,8 @@ function resourceKey(url) {
 
 function classify(issue, sections) {
   const maintainer = MAINTAINER_ASSOCIATIONS.includes(issue.author_association)
-  if (maintainer && SITE_FORM_TITLE.test(issue.title)) return 'site'
+  const siteApp = issue.user?.login === SITE_APP_LOGIN
+  if ((maintainer || siteApp) && SITE_FORM_TITLE.test(issue.title)) return 'site'
   if (maintainer || sections.has(REPORT_SECTION)) return 'ignore'
   if (REQUIRED_SECTIONS.every((name) => sections.has(name.toLowerCase()))) return 'form'
   return sections.has('resource name') ? 'old-template' : 'bypass'
